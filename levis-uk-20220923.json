@@ -1,0 +1,3038 @@
+{
+	"storeFinderData": [
+		{
+			"addLine1": "Unit 20, Resorts World - Pendigo Way",
+			"addLine2": null,
+			"city": "Birmingham",
+			"country": "GB",
+			"departments": [
+				"WOMEN",
+				"MEN"
+			],
+			"distance": 0,
+			"hrsOfOperation": [
+				{
+					"daysShort": "Mon-Fri",
+					"hours": "10:00-18:00",
+					"isOpen": false
+				},
+				{
+					"daysShort": "Sat",
+					"hours": "09:00-18:00",
+					"isOpen": false
+				},
+				{
+					"daysShort": "Sun",
+					"hours": "11:00-17:00",
+					"isOpen": false
+				}
+			],
+			"latitude": 52.448841,
+			"longitude": -1.717178,
+			"mapUrl": null,
+			"ors": false,
+			"phone": "+44 1217 828898",
+			"postcode": "B40 1PU",
+			"state": null,
+			"storeId": "8798419945464",
+			"storeName": "Levi's® Factory Outlet Birmingham Resorts World",
+			"storeType": "OUTLET",
+			"todaysHrsOfOperation": {
+				"daysShort": "Fri",
+				"hours": "18:00",
+				"isOpen": true
+			},
+			"uom": null
+		},
+		{
+			"addLine1": "36 Buchanan Street",
+			"addLine2": null,
+			"city": "Glasgow",
+			"country": "GB",
+			"departments": [
+				"WOMEN",
+				"MEN"
+			],
+			"distance": 0,
+			"hrsOfOperation": [
+				{
+					"daysShort": "Mon-Wed",
+					"hours": "09:30-18:00",
+					"isOpen": false
+				},
+				{
+					"daysShort": "Thu",
+					"hours": "09:30-19:00",
+					"isOpen": false
+				},
+				{
+					"daysShort": "Fri-Sat",
+					"hours": "09:30-18:00",
+					"isOpen": false
+				},
+				{
+					"daysShort": "Sun",
+					"hours": "11:00-17:00",
+					"isOpen": false
+				}
+			],
+			"latitude": 55.858816,
+			"longitude": -4.255265,
+			"mapUrl": null,
+			"ors": true,
+			"phone": "+44 1412 485065",
+			"postcode": "G1 3JX",
+			"state": null,
+			"storeId": "8798420502520",
+			"storeName": "Levi's® Buchanan Street",
+			"storeType": "STORE",
+			"todaysHrsOfOperation": {
+				"daysShort": "Fri",
+				"hours": "18:00",
+				"isOpen": true
+			},
+			"uom": null
+		},
+		{
+			"addLine1": "Unit 5 The Friary",
+			"addLine2": null,
+			"city": "Guildford",
+			"country": "GB",
+			"departments": [
+				"WOMEN",
+				"MEN"
+			],
+			"distance": 0,
+			"hrsOfOperation": [
+				{
+					"daysShort": "Mon-Sat",
+					"hours": "09:00-18:00",
+					"isOpen": false
+				},
+				{
+					"daysShort": "Sun",
+					"hours": "11:00-17:00",
+					"isOpen": false
+				}
+			],
+			"latitude": 51.236918,
+			"longitude": -0.576546,
+			"mapUrl": null,
+			"ors": true,
+			"phone": "+44 14 8357 0233",
+			"postcode": "GU1 4YT",
+			"state": null,
+			"storeId": "8798421485560",
+			"storeName": "Levi's® Guildford",
+			"storeType": "STORE",
+			"todaysHrsOfOperation": {
+				"daysShort": "Fri",
+				"hours": "18:00",
+				"isOpen": true
+			},
+			"uom": null
+		},
+		{
+			"addLine1": "Peninsula Sq. ICON Centre Unit 9.1.1, O2 Arena",
+			"addLine2": null,
+			"city": "London",
+			"country": "GB",
+			"departments": [
+				"WOMEN",
+				"MEN"
+			],
+			"distance": 0,
+			"hrsOfOperation": [
+				{
+					"daysShort": "Mon-Sat",
+					"hours": "10:00-20:00",
+					"isOpen": false
+				},
+				{
+					"daysShort": "Sun",
+					"hours": "11:00-20:00",
+					"isOpen": false
+				}
+			],
+			"latitude": 51.503281,
+			"longitude": 0.001182,
+			"mapUrl": null,
+			"ors": false,
+			"phone": "+44 20 8305 2375",
+			"postcode": "SE10 0DX",
+			"state": null,
+			"storeId": "8798421583864",
+			"storeName": "Levi's® Factory Outlet London O2",
+			"storeType": "OUTLET",
+			"todaysHrsOfOperation": {
+				"daysShort": "Fri",
+				"hours": "20:00",
+				"isOpen": true
+			},
+			"uom": null
+		},
+		{
+			"addLine1": "The Oracle - Unit L8 Riverside Road",
+			"addLine2": null,
+			"city": "Reading",
+			"country": "GB",
+			"departments": [
+				"WOMEN",
+				"MEN"
+			],
+			"distance": 0,
+			"hrsOfOperation": [
+				{
+					"daysShort": "Mon-Fri",
+					"hours": "09:30-20:00",
+					"isOpen": false
+				},
+				{
+					"daysShort": "Sat",
+					"hours": "09:00-19:00",
+					"isOpen": false
+				},
+				{
+					"daysShort": "Sun",
+					"hours": "11:00-17:00",
+					"isOpen": false
+				}
+			],
+			"latitude": 51.4536979,
+			"longitude": -0.97105,
+			"mapUrl": null,
+			"ors": true,
+			"phone": "+44 11 8958 9208",
+			"postcode": "RG1 2AG",
+			"state": null,
+			"storeId": "8798421616632",
+			"storeName": "Levi's® Reading",
+			"storeType": "STORE",
+			"todaysHrsOfOperation": {
+				"daysShort": "Fri",
+				"hours": "20:00",
+				"isOpen": true
+			},
+			"uom": null
+		},
+		{
+			"addLine1": "21 Clumber Street",
+			"addLine2": null,
+			"city": "Nottingham",
+			"country": "GB",
+			"departments": [
+				"WOMEN",
+				"MEN"
+			],
+			"distance": 0,
+			"hrsOfOperation": [
+				{
+					"daysShort": "Mon-Fri",
+					"hours": "10:00-18:00",
+					"isOpen": false
+				},
+				{
+					"daysShort": "Sat",
+					"hours": "09:00-18:00",
+					"isOpen": false
+				},
+				{
+					"daysShort": "Sun",
+					"hours": "11:00-17:00",
+					"isOpen": false
+				}
+			],
+			"latitude": 52.954302,
+			"longitude": -1.147857,
+			"mapUrl": null,
+			"ors": true,
+			"phone": "+44 1159 501655",
+			"postcode": "NG1 3ED",
+			"state": null,
+			"storeId": "8798424139768",
+			"storeName": "Levi's® Nottingham",
+			"storeType": "STORE",
+			"todaysHrsOfOperation": {
+				"daysShort": "Fri",
+				"hours": "18:00",
+				"isOpen": true
+			},
+			"uom": null
+		},
+		{
+			"addLine1": "Unit 19 Canada Place - Canary Wharf",
+			"addLine2": null,
+			"city": "London",
+			"country": "GB",
+			"departments": [
+				"WOMEN",
+				"MEN"
+			],
+			"distance": 0,
+			"hrsOfOperation": [
+				{
+					"daysShort": "Mon-Fri",
+					"hours": "09:00-20:00",
+					"isOpen": false
+				},
+				{
+					"daysShort": "Sat",
+					"hours": "10:00-19:00",
+					"isOpen": false
+				},
+				{
+					"daysShort": "Sun",
+					"hours": "12:00-18:00",
+					"isOpen": false
+				}
+			],
+			"latitude": 51.504402,
+			"longitude": -0.017472,
+			"mapUrl": null,
+			"ors": true,
+			"phone": "+44 2075 196870",
+			"postcode": "E14 5AH",
+			"state": null,
+			"storeId": "8798426826744",
+			"storeName": "Levi's® Canary Wharf",
+			"storeType": "STORE",
+			"todaysHrsOfOperation": {
+				"daysShort": "Fri",
+				"hours": "20:00",
+				"isOpen": true
+			},
+			"uom": null
+		},
+		{
+			"addLine1": "unit 22, 67 Midsummer Place",
+			"addLine2": null,
+			"city": "Central Milton Keynes",
+			"country": "GB",
+			"departments": [
+				"WOMEN",
+				"MEN"
+			],
+			"distance": 0,
+			"hrsOfOperation": [
+				{
+					"daysShort": "Mon-Wed",
+					"hours": "09:30-18:00",
+					"isOpen": false
+				},
+				{
+					"daysShort": "Thu",
+					"hours": "09:30-20:00",
+					"isOpen": false
+				},
+				{
+					"daysShort": "Fri",
+					"hours": "09:30-18:00",
+					"isOpen": false
+				},
+				{
+					"daysShort": "Sat",
+					"hours": "09:30-19:00",
+					"isOpen": false
+				},
+				{
+					"daysShort": "Sun",
+					"hours": "11:00-17:00",
+					"isOpen": false
+				}
+			],
+			"latitude": 52.041008,
+			"longitude": -0.757157,
+			"mapUrl": null,
+			"ors": true,
+			"phone": "+44 1908 607715",
+			"postcode": "MK9 3GB",
+			"state": null,
+			"storeId": "8798429415416",
+			"storeName": "Levi's® Milton Keynes",
+			"storeType": "STORE",
+			"todaysHrsOfOperation": {
+				"daysShort": "Fri",
+				"hours": "18:00",
+				"isOpen": true
+			},
+			"uom": null
+		},
+		{
+			"addLine1": "17-18 High Ousegate",
+			"addLine2": null,
+			"city": "York",
+			"country": "GB",
+			"departments": [
+				"WOMEN",
+				"MEN"
+			],
+			"distance": 0,
+			"hrsOfOperation": [
+				{
+					"daysShort": "Mon-Fri",
+					"hours": "10:00-18:00",
+					"isOpen": false
+				},
+				{
+					"daysShort": "Sat",
+					"hours": "09:00-18:00",
+					"isOpen": false
+				},
+				{
+					"daysShort": "Sun",
+					"hours": "11:00-17:00",
+					"isOpen": false
+				}
+			],
+			"latitude": 53.958043,
+			"longitude": -1.081119,
+			"mapUrl": null,
+			"ors": true,
+			"phone": "+44 19 0462 2251",
+			"postcode": "YO1 8RX",
+			"state": null,
+			"storeId": "8798430267384",
+			"storeName": "Levi's® York",
+			"storeType": "STORE",
+			"todaysHrsOfOperation": {
+				"daysShort": "Fri",
+				"hours": "18:00",
+				"isOpen": true
+			},
+			"uom": null
+		},
+		{
+			"addLine1": "Unit 222 Glades Shopping Centre",
+			"addLine2": null,
+			"city": "Bromley",
+			"country": "GB",
+			"departments": [
+				"WOMEN",
+				"MEN"
+			],
+			"distance": 0,
+			"hrsOfOperation": [
+				{
+					"daysShort": "Mon-Wed",
+					"hours": "09:00-18:00",
+					"isOpen": false
+				},
+				{
+					"daysShort": "Thu",
+					"hours": "09:00-21:00",
+					"isOpen": false
+				},
+				{
+					"daysShort": "Fri-Sat",
+					"hours": "09:00-18:00",
+					"isOpen": false
+				},
+				{
+					"daysShort": "Sun",
+					"hours": "11:00-17:00",
+					"isOpen": false
+				}
+			],
+			"latitude": 51.402881,
+			"longitude": 0.015767,
+			"mapUrl": null,
+			"ors": true,
+			"phone": "+44 2084 660267",
+			"postcode": "BR1 1DD",
+			"state": null,
+			"storeId": "8798441015288",
+			"storeName": "Levi's® Bromley",
+			"storeType": "STORE",
+			"todaysHrsOfOperation": {
+				"daysShort": "Fri",
+				"hours": "18:00",
+				"isOpen": true
+			},
+			"uom": null
+		},
+		{
+			"addLine1": "Unit LG40, 27 Grand Arcade, St David's",
+			"addLine2": null,
+			"city": "Cardiff",
+			"country": "GB",
+			"departments": [
+				"WOMEN",
+				"MEN"
+			],
+			"distance": 0,
+			"hrsOfOperation": [
+				{
+					"daysShort": "Mon-Fri",
+					"hours": "09:30-20:00",
+					"isOpen": false
+				},
+				{
+					"daysShort": "Sat",
+					"hours": "09:30-19:00",
+					"isOpen": false
+				},
+				{
+					"daysShort": "Sun",
+					"hours": "11:00-17:00",
+					"isOpen": false
+				}
+			],
+			"latitude": 51.479051,
+			"longitude": -3.174852,
+			"mapUrl": null,
+			"ors": true,
+			"phone": "+44 29 2039 7443",
+			"postcode": "CF10 2EF",
+			"state": null,
+			"storeId": "8798445537272",
+			"storeName": "Levi's® Cardiff",
+			"storeType": "STORE",
+			"todaysHrsOfOperation": {
+				"daysShort": "Fri",
+				"hours": "20:00",
+				"isOpen": true
+			},
+			"uom": null
+		},
+		{
+			"addLine1": "Unit 63, Cascum Rd, The Boulevard",
+			"addLine2": null,
+			"city": "Banbridge",
+			"country": "GB",
+			"departments": [
+				"WOMEN",
+				"MEN"
+			],
+			"distance": 0,
+			"hrsOfOperation": [
+				{
+					"daysShort": "Mon-Wed",
+					"hours": "10:00-18:00",
+					"isOpen": false
+				},
+				{
+					"daysShort": "Thu-Fri",
+					"hours": "10:00-21:00",
+					"isOpen": false
+				},
+				{
+					"daysShort": "Sat",
+					"hours": "09:00-18:00",
+					"isOpen": false
+				},
+				{
+					"daysShort": "Sun",
+					"hours": "13:00-18:00",
+					"isOpen": false
+				}
+			],
+			"latitude": 54.331187,
+			"longitude": -6.276953,
+			"mapUrl": null,
+			"ors": false,
+			"phone": "+44 2 840 629 320",
+			"postcode": "BT32 4LF",
+			"state": null,
+			"storeId": "8798445799416",
+			"storeName": "Levi's® Factory Outlet Banbridge Boulevard",
+			"storeType": "OUTLET",
+			"todaysHrsOfOperation": {
+				"daysShort": "Fri",
+				"hours": "21:00",
+				"isOpen": true
+			},
+			"uom": null
+		},
+		{
+			"addLine1": "Unit 2, Gretna Gateway, Glasgow Road",
+			"addLine2": null,
+			"city": "Gretna",
+			"country": "GB",
+			"departments": [
+				"WOMEN",
+				"MEN"
+			],
+			"distance": 0,
+			"hrsOfOperation": [
+				{
+					"daysShort": "Mon-Sat",
+					"hours": "09:00-18:00",
+					"isOpen": false
+				},
+				{
+					"daysShort": "Sun",
+					"hours": "10:00-18:00",
+					"isOpen": false
+				}
+			],
+			"latitude": 54.997102,
+			"longitude": -3.057231,
+			"mapUrl": null,
+			"ors": false,
+			"phone": "+44 14 6133 9729",
+			"postcode": "DG16 5GG",
+			"state": null,
+			"storeId": "8798446815224",
+			"storeName": "Levi's® Factory Outlet Gretna Green",
+			"storeType": "OUTLET",
+			"todaysHrsOfOperation": {
+				"daysShort": "Fri",
+				"hours": "18:00",
+				"isOpen": true
+			},
+			"uom": null
+		},
+		{
+			"addLine1": "Union Square",
+			"addLine2": null,
+			"city": "Aberdeen",
+			"country": "GB",
+			"departments": [
+				"WOMEN",
+				"MEN"
+			],
+			"distance": 0,
+			"hrsOfOperation": [
+				{
+					"daysShort": "Mon-Fri",
+					"hours": "09:00-20:00",
+					"isOpen": false
+				},
+				{
+					"daysShort": "Sat",
+					"hours": "09:00-19:00",
+					"isOpen": false
+				},
+				{
+					"daysShort": "Sun",
+					"hours": "11:00-18:00",
+					"isOpen": false
+				}
+			],
+			"latitude": 57.143541,
+			"longitude": -2.097063,
+			"mapUrl": null,
+			"ors": true,
+			"phone": "+44 12 2459 0113",
+			"postcode": "AB11 5RG",
+			"state": null,
+			"storeId": "8798446979064",
+			"storeName": "Levi's® Aberdeen",
+			"storeType": "STORE",
+			"todaysHrsOfOperation": {
+				"daysShort": "Fri",
+				"hours": "20:00",
+				"isOpen": true
+			},
+			"uom": null
+		},
+		{
+			"addLine1": "Northampton Road, Rushden Lakes Shopping Park - Unit A10",
+			"addLine2": null,
+			"city": "Rushden",
+			"country": "GB",
+			"departments": [
+				"WOMEN",
+				"MEN"
+			],
+			"distance": 0,
+			"hrsOfOperation": [
+				{
+					"daysShort": "Mon-Fri",
+					"hours": "09:00-19:00",
+					"isOpen": false
+				},
+				{
+					"daysShort": "Sat",
+					"hours": "09:00-19:00",
+					"isOpen": false
+				},
+				{
+					"daysShort": "Sun",
+					"hours": "09:00-19:00",
+					"isOpen": false
+				}
+			],
+			"latitude": 52.30052,
+			"longitude": -0.6248,
+			"mapUrl": null,
+			"ors": true,
+			"phone": "+44 1933 2083 7083",
+			"postcode": "NN10 6FH",
+			"state": null,
+			"storeId": "8798447208440",
+			"storeName": "Levi's® Rushden Lakes",
+			"storeType": "STORE",
+			"todaysHrsOfOperation": {
+				"daysShort": "Fri",
+				"hours": "19:00",
+				"isOpen": true
+			},
+			"uom": null
+		},
+		{
+			"addLine1": "Unit 32-33, West Midlands designer Outlet Centre, Eastern Way",
+			"addLine2": null,
+			"city": "Cannock",
+			"country": "GB",
+			"departments": [
+				"WOMEN",
+				"MEN"
+			],
+			"distance": 0,
+			"hrsOfOperation": [
+				{
+					"daysShort": "Mon-Fri",
+					"hours": "10:00-20:00",
+					"isOpen": false
+				},
+				{
+					"daysShort": "Sat",
+					"hours": "09:00-20:00",
+					"isOpen": false
+				},
+				{
+					"daysShort": "Sun",
+					"hours": "11:00-17:00",
+					"isOpen": false
+				}
+			],
+			"latitude": 52.688572,
+			"longitude": -2.014791,
+			"mapUrl": null,
+			"ors": false,
+			"phone": "+44 15 43 39 96 30",
+			"postcode": "WS11 7JZ",
+			"state": null,
+			"storeId": "8798447699960",
+			"storeName": "Levi's® Factory Outlet Cannock",
+			"storeType": "OUTLET",
+			"todaysHrsOfOperation": {
+				"daysShort": "Fri",
+				"hours": "20:00",
+				"isOpen": true
+			},
+			"uom": null
+		},
+		{
+			"addLine1": "40 Great Marlborough Street",
+			"addLine2": null,
+			"city": "London",
+			"country": "GB",
+			"departments": [],
+			"distance": 0,
+			"hrsOfOperation": [
+				{
+					"daysShort": "Mon-Fri",
+					"hours": "09:00-17:00",
+					"isOpen": false
+				},
+				{
+					"daysShort": "Sat-Sun",
+					"hours": "Closed",
+					"isOpen": false
+				}
+			],
+			"latitude": 51.514257,
+			"longitude": -0.139093,
+			"mapUrl": null,
+			"ors": true,
+			"phone": "+44 207 851 05 24",
+			"postcode": "W1F 7JQ",
+			"state": null,
+			"storeId": "8798447929336",
+			"storeName": "Levi's® Lot 1",
+			"storeType": "STORE",
+			"todaysHrsOfOperation": {
+				"daysShort": "Fri",
+				"hours": "17:00",
+				"isOpen": true
+			},
+			"uom": null
+		},
+		{
+			"addLine1": "Unit 11b, Fosse Park Shopping Centre",
+			"addLine2": null,
+			"city": "Leicester",
+			"country": "GB",
+			"departments": [
+				"WOMEN",
+				"MEN"
+			],
+			"distance": 0,
+			"hrsOfOperation": [
+				{
+					"daysShort": "Mon-Wed",
+					"hours": "09:00-20:00",
+					"isOpen": false
+				},
+				{
+					"daysShort": "Thu",
+					"hours": "09:00-21:00",
+					"isOpen": false
+				},
+				{
+					"daysShort": "Fri-Sat",
+					"hours": "09:00-20:00",
+					"isOpen": false
+				},
+				{
+					"daysShort": "Sun",
+					"hours": "11:00-17:00",
+					"isOpen": false
+				}
+			],
+			"latitude": 52.097,
+			"longitude": -1.1807,
+			"mapUrl": null,
+			"ors": true,
+			"phone": "+44 116 478 7075",
+			"postcode": "LE19 1HX",
+			"state": null,
+			"storeId": "8798911105016",
+			"storeName": "Levi's® Fosse Park",
+			"storeType": "STORE",
+			"todaysHrsOfOperation": {
+				"daysShort": "Fri",
+				"hours": "20:00",
+				"isOpen": true
+			},
+			"uom": null
+		},
+		{
+			"addLine1": "St Lawrence Street, Southgate Centre, Unit 6",
+			"addLine2": null,
+			"city": "Bath",
+			"country": "GB",
+			"departments": [],
+			"distance": 0,
+			"hrsOfOperation": [
+				{
+					"daysShort": "Mon-Sat",
+					"hours": "09:00-18:00",
+					"isOpen": false
+				},
+				{
+					"daysShort": "Sun",
+					"hours": "11:00-17:00",
+					"isOpen": false
+				}
+			],
+			"latitude": 51.3793,
+			"longitude": -2.3589,
+			"mapUrl": null,
+			"ors": false,
+			"phone": "+44 1225 939880",
+			"postcode": "BA1 1AN",
+			"state": null,
+			"storeId": "8799238785016",
+			"storeName": "Levi's® Bath",
+			"storeType": "STORE",
+			"todaysHrsOfOperation": {
+				"daysShort": "Fri",
+				"hours": "18:00",
+				"isOpen": true
+			},
+			"uom": null
+		},
+		{
+			"addLine1": "Unit 2.18 Trinity",
+			"addLine2": null,
+			"city": "Leeds",
+			"country": "GB",
+			"departments": [],
+			"distance": 0,
+			"hrsOfOperation": [
+				{
+					"daysShort": "Mon-Sat",
+					"hours": "09:00-20:00",
+					"isOpen": false
+				},
+				{
+					"daysShort": "Sun",
+					"hours": "11:00-17:00",
+					"isOpen": false
+				}
+			],
+			"latitude": 53.796543,
+			"longitude": -1.543048,
+			"mapUrl": null,
+			"ors": false,
+			"phone": "+44 113 487 3690",
+			"postcode": "LS1 5ER",
+			"state": null,
+			"storeId": "8799271553016",
+			"storeName": "Levi's® Leeds Trinity",
+			"storeType": "STORE",
+			"todaysHrsOfOperation": {
+				"daysShort": "Fri",
+				"hours": "20:00",
+				"isOpen": true
+			},
+			"uom": null
+		},
+		{
+			"addLine1": "Unit 702 Upper level The Bullring Shopping Centre",
+			"addLine2": null,
+			"city": "Birmingham",
+			"country": "GB",
+			"departments": [
+				"WOMEN",
+				"MEN"
+			],
+			"distance": 0,
+			"hrsOfOperation": [
+				{
+					"daysShort": "Mon-Sat",
+					"hours": "10:00-18:00",
+					"isOpen": false
+				},
+				{
+					"daysShort": "Sun",
+					"hours": "11:00-17:00",
+					"isOpen": false
+				}
+			],
+			"latitude": 52.477612,
+			"longitude": -1.894798,
+			"mapUrl": null,
+			"ors": true,
+			"phone": "+44 1216 334804",
+			"postcode": "B5 4BU",
+			"state": null,
+			"storeId": "8799304353784",
+			"storeName": "Levi's® Bullring",
+			"storeType": "STORE",
+			"todaysHrsOfOperation": {
+				"daysShort": "Fri",
+				"hours": "18:00",
+				"isOpen": true
+			},
+			"uom": null
+		},
+		{
+			"addLine1": "Cabot Circus - Concorde Street - SU5",
+			"addLine2": null,
+			"city": "Temple Meads",
+			"country": "GB",
+			"departments": [
+				"WOMEN",
+				"MEN"
+			],
+			"distance": 0,
+			"hrsOfOperation": [
+				{
+					"daysShort": "Mon-Sat",
+					"hours": "10:00-20:00",
+					"isOpen": false
+				},
+				{
+					"daysShort": "Sun",
+					"hours": "11:00-17:00",
+					"isOpen": false
+				}
+			],
+			"latitude": 51.458923,
+			"longitude": -2.586324,
+			"mapUrl": null,
+			"ors": true,
+			"phone": "+44 1179 258505",
+			"postcode": "BS1 3BF",
+			"state": null,
+			"storeId": "8799304386552",
+			"storeName": "Levi's® Bristol",
+			"storeType": "STORE",
+			"todaysHrsOfOperation": {
+				"daysShort": "Fri",
+				"hours": "20:00",
+				"isOpen": true
+			},
+			"uom": null
+		},
+		{
+			"addLine1": "Unit SU17 Ground Floor Grand Arcade, 14 Saint Andrew's Street",
+			"addLine2": null,
+			"city": "Cambridge",
+			"country": "GB",
+			"departments": [
+				"WOMEN",
+				"MEN"
+			],
+			"distance": 0,
+			"hrsOfOperation": [
+				{
+					"daysShort": "Mon-Tue",
+					"hours": "09:00-18:00",
+					"isOpen": false
+				},
+				{
+					"daysShort": "Wed",
+					"hours": "09:00-20:00",
+					"isOpen": false
+				},
+				{
+					"daysShort": "Thu-Sat",
+					"hours": "09:00-18:00",
+					"isOpen": false
+				},
+				{
+					"daysShort": "Sun",
+					"hours": "11:00-17:00",
+					"isOpen": false
+				}
+			],
+			"latitude": 52.2044598,
+			"longitude": 0.12112,
+			"mapUrl": null,
+			"ors": true,
+			"phone": "+44 1223 321130",
+			"postcode": "CB2 3BJ",
+			"state": null,
+			"storeId": "8799304419320",
+			"storeName": "Levi's® Cambridge",
+			"storeType": "STORE",
+			"todaysHrsOfOperation": {
+				"daysShort": "Fri",
+				"hours": "18:00",
+				"isOpen": true
+			},
+			"uom": null
+		},
+		{
+			"addLine1": "119 Long Acre, Covent Garden",
+			"addLine2": null,
+			"city": "London",
+			"country": "GB",
+			"departments": [
+				"WOMEN",
+				"MEN"
+			],
+			"distance": 0,
+			"hrsOfOperation": [
+				{
+					"daysShort": "Mon-Sat",
+					"hours": "10:00-20:00",
+					"isOpen": false
+				},
+				{
+					"daysShort": "Sun",
+					"hours": "12:00-18:00",
+					"isOpen": false
+				}
+			],
+			"latitude": 51.512827,
+			"longitude": -0.125129,
+			"mapUrl": null,
+			"ors": true,
+			"phone": "+44 2072 401443",
+			"postcode": "WC2E 9JD",
+			"state": null,
+			"storeId": "8799304452088",
+			"storeName": "Levi's® Covent Garden",
+			"storeType": "STORE",
+			"todaysHrsOfOperation": {
+				"daysShort": "Fri",
+				"hours": "20:00",
+				"isOpen": true
+			},
+			"uom": null
+		},
+		{
+			"addLine1": "109 Princes Street",
+			"addLine2": null,
+			"city": "Edinburgh",
+			"country": "GB",
+			"departments": [
+				"WOMEN",
+				"MEN"
+			],
+			"distance": 0,
+			"hrsOfOperation": [
+				{
+					"daysShort": "Mon-Wed",
+					"hours": "10:00-18:00",
+					"isOpen": false
+				},
+				{
+					"daysShort": "Thu",
+					"hours": "10:00-19:00",
+					"isOpen": false
+				},
+				{
+					"daysShort": "Fri",
+					"hours": "10:00-18:00",
+					"isOpen": false
+				},
+				{
+					"daysShort": "Sat",
+					"hours": "09:00-18:00",
+					"isOpen": false
+				},
+				{
+					"daysShort": "Sun",
+					"hours": "11:00-17:00",
+					"isOpen": false
+				}
+			],
+			"latitude": 55.951679,
+			"longitude": -3.201049,
+			"mapUrl": null,
+			"ors": true,
+			"phone": "+44 1312 263990",
+			"postcode": "EH2 3AA",
+			"state": null,
+			"storeId": "8799304484856",
+			"storeName": "Levi's® Edinburgh",
+			"storeType": "STORE",
+			"todaysHrsOfOperation": {
+				"daysShort": "Fri",
+				"hours": "18:00",
+				"isOpen": true
+			},
+			"uom": null
+		},
+		{
+			"addLine1": "Unit L45 Level 3 Buchanan Galleries 220 Buchanan St",
+			"addLine2": null,
+			"city": "Glasgow",
+			"country": "GB",
+			"departments": [
+				"WOMEN",
+				"MEN"
+			],
+			"distance": 0,
+			"hrsOfOperation": [
+				{
+					"daysShort": "Mon-Wed",
+					"hours": "09:00-18:00",
+					"isOpen": false
+				},
+				{
+					"daysShort": "Thu-Fri",
+					"hours": "09:00-19:00",
+					"isOpen": false
+				},
+				{
+					"daysShort": "Sat",
+					"hours": "09:00-18:00",
+					"isOpen": false
+				},
+				{
+					"daysShort": "Sun",
+					"hours": "10:00-18:00",
+					"isOpen": false
+				}
+			],
+			"latitude": 55.862931,
+			"longitude": -4.252563,
+			"mapUrl": null,
+			"ors": true,
+			"phone": "+44 1413 327139",
+			"postcode": "G1 2GF",
+			"state": null,
+			"storeId": "8799304517624",
+			"storeName": "Levi's® Buchanan Galleries",
+			"storeType": "STORE",
+			"todaysHrsOfOperation": {
+				"daysShort": "Fri",
+				"hours": "19:00",
+				"isOpen": true
+			},
+			"uom": null
+		},
+		{
+			"addLine1": "Unit LL91 Highcross Centre",
+			"addLine2": null,
+			"city": "Leicester",
+			"country": "GB",
+			"departments": [
+				"WOMEN",
+				"MEN"
+			],
+			"distance": 0,
+			"hrsOfOperation": [
+				{
+					"daysShort": "Mon-Fri",
+					"hours": "09:30-20:00",
+					"isOpen": false
+				},
+				{
+					"daysShort": "Sat",
+					"hours": "09:00-19:00",
+					"isOpen": false
+				},
+				{
+					"daysShort": "Sun",
+					"hours": "11:00-17:00",
+					"isOpen": false
+				}
+			],
+			"latitude": 52.637598,
+			"longitude": -1.134876,
+			"mapUrl": null,
+			"ors": true,
+			"phone": "+44 1162 425452",
+			"postcode": "LE1 4FS",
+			"state": null,
+			"storeId": "8799304550392",
+			"storeName": "Levi's® Leicester",
+			"storeType": "STORE",
+			"todaysHrsOfOperation": {
+				"daysShort": "Fri",
+				"hours": "20:00",
+				"isOpen": true
+			},
+			"uom": null
+		},
+		{
+			"addLine1": "Unit Y14 Brent Cross Hendon, Prince Charles Drive",
+			"addLine2": null,
+			"city": "London",
+			"country": "GB",
+			"departments": [
+				"WOMEN",
+				"MEN"
+			],
+			"distance": 0,
+			"hrsOfOperation": [
+				{
+					"daysShort": "Mon-Fri",
+					"hours": "10:00-20:00",
+					"isOpen": false
+				},
+				{
+					"daysShort": "Sat",
+					"hours": "09:00-19:00",
+					"isOpen": false
+				},
+				{
+					"daysShort": "Sun",
+					"hours": "12:00-18:00",
+					"isOpen": false
+				}
+			],
+			"latitude": 51.576342,
+			"longitude": -0.222853,
+			"mapUrl": null,
+			"ors": true,
+			"phone": "+44 2082 016547",
+			"postcode": "NW4 3FP",
+			"state": null,
+			"storeId": "8799304583160",
+			"storeName": "Levi's® Brent Cross",
+			"storeType": "STORE",
+			"todaysHrsOfOperation": {
+				"daysShort": "Fri",
+				"hours": "20:00",
+				"isOpen": true
+			},
+			"uom": null
+		},
+		{
+			"addLine1": "51 Carnaby Street",
+			"addLine2": null,
+			"city": "London",
+			"country": "GB",
+			"departments": [
+				"WOMEN",
+				"MEN"
+			],
+			"distance": 0,
+			"hrsOfOperation": [
+				{
+					"daysShort": "Mon-Sat",
+					"hours": "10:00-20:00",
+					"isOpen": false
+				},
+				{
+					"daysShort": "Sun",
+					"hours": "12:00-18:00",
+					"isOpen": false
+				}
+			],
+			"latitude": 51.512641,
+			"longitude": -0.138466,
+			"mapUrl": null,
+			"ors": true,
+			"phone": "+44 2072 870629",
+			"postcode": "W1F 9QB",
+			"state": null,
+			"storeId": "8799304615928",
+			"storeName": "Levi's® Carnaby Street",
+			"storeType": "STORE",
+			"todaysHrsOfOperation": {
+				"daysShort": "Fri",
+				"hours": "20:00",
+				"isOpen": true
+			},
+			"uom": null
+		},
+		{
+			"addLine1": "Unit 27 Upper Level Arndale Centre",
+			"addLine2": null,
+			"city": "Manchester",
+			"country": "GB",
+			"departments": [
+				"WOMEN",
+				"MEN"
+			],
+			"distance": 0,
+			"hrsOfOperation": [
+				{
+					"daysShort": "Mon-Fri",
+					"hours": "09:00-20:00",
+					"isOpen": false
+				},
+				{
+					"daysShort": "Sat",
+					"hours": "09:00-19:00",
+					"isOpen": false
+				},
+				{
+					"daysShort": "Sun",
+					"hours": "11:30-17:30",
+					"isOpen": false
+				}
+			],
+			"latitude": 53.483431,
+			"longitude": -2.241532,
+			"mapUrl": null,
+			"ors": true,
+			"phone": "+44 1618 334979",
+			"postcode": "M4 3AQ",
+			"state": null,
+			"storeId": "8799304648696",
+			"storeName": "Levi's® Arndale Centre",
+			"storeType": "STORE",
+			"todaysHrsOfOperation": {
+				"daysShort": "Fri",
+				"hours": "20:00",
+				"isOpen": true
+			},
+			"uom": null
+		},
+		{
+			"addLine1": "22 Blackett Bridge Intu Eldon Square",
+			"addLine2": null,
+			"city": "Newcastle upon Tyne",
+			"country": "GB",
+			"departments": [
+				"WOMEN",
+				"MEN"
+			],
+			"distance": 0,
+			"hrsOfOperation": [
+				{
+					"daysShort": "Mon-Thu",
+					"hours": "09:00-20:00",
+					"isOpen": false
+				},
+				{
+					"daysShort": "Fri",
+					"hours": "09:00-18:00",
+					"isOpen": false
+				},
+				{
+					"daysShort": "Sat",
+					"hours": "09:00-19:00",
+					"isOpen": false
+				},
+				{
+					"daysShort": "Sun",
+					"hours": "11:00-17:00",
+					"isOpen": false
+				}
+			],
+			"latitude": 54.975034,
+			"longitude": -1.615061,
+			"mapUrl": null,
+			"ors": true,
+			"phone": "+44 191 261 6391",
+			"postcode": "NE1 7JG",
+			"state": null,
+			"storeId": "8799304681464",
+			"storeName": "Levi's® Eldon Square",
+			"storeType": "STORE",
+			"todaysHrsOfOperation": {
+				"daysShort": "Fri",
+				"hours": "18:00",
+				"isOpen": true
+			},
+			"uom": null
+		},
+		{
+			"addLine1": "Unit 257, Saint Michaels Way",
+			"addLine2": null,
+			"city": "Gateshead",
+			"country": "GB",
+			"departments": [
+				"WOMEN",
+				"MEN"
+			],
+			"distance": 0,
+			"hrsOfOperation": [
+				{
+					"daysShort": "Mon-Fri",
+					"hours": "10:00-21:00",
+					"isOpen": false
+				},
+				{
+					"daysShort": "Sat",
+					"hours": "09:00-19:00",
+					"isOpen": false
+				},
+				{
+					"daysShort": "Sun",
+					"hours": "11:00-17:00",
+					"isOpen": false
+				}
+			],
+			"latitude": 52.300321,
+			"longitude": -0.624567,
+			"mapUrl": null,
+			"ors": true,
+			"phone": "+44 1914 611909",
+			"postcode": "NE11 9YR",
+			"state": null,
+			"storeId": "8799304714232",
+			"storeName": "Levi's® Metrocentre",
+			"storeType": "STORE",
+			"todaysHrsOfOperation": {
+				"daysShort": "Fri",
+				"hours": "21:00",
+				"isOpen": true
+			},
+			"uom": null
+		},
+		{
+			"addLine1": "64 High Street Meadowhall Centre",
+			"addLine2": null,
+			"city": "Sheffield",
+			"country": "GB",
+			"departments": [
+				"WOMEN",
+				"MEN"
+			],
+			"distance": 0,
+			"hrsOfOperation": [
+				{
+					"daysShort": "Mon-Fri",
+					"hours": "10:00-21:00",
+					"isOpen": false
+				},
+				{
+					"daysShort": "Sat",
+					"hours": "09:00-20:00",
+					"isOpen": false
+				},
+				{
+					"daysShort": "Sun",
+					"hours": "11:00-17:00",
+					"isOpen": false
+				}
+			],
+			"latitude": 53.41413,
+			"longitude": -1.41566,
+			"mapUrl": null,
+			"ors": true,
+			"phone": "+44 1142 568398",
+			"postcode": "S9 1EN",
+			"state": null,
+			"storeId": "8799304747000",
+			"storeName": "Levi's® Sheffield",
+			"storeType": "STORE",
+			"todaysHrsOfOperation": {
+				"daysShort": "Fri",
+				"hours": "21:00",
+				"isOpen": true
+			},
+			"uom": null
+		},
+		{
+			"addLine1": "Unit 32 West Quay Shopping Centre",
+			"addLine2": null,
+			"city": "Southampton",
+			"country": "GB",
+			"departments": [
+				"WOMEN",
+				"MEN"
+			],
+			"distance": 0,
+			"hrsOfOperation": [
+				{
+					"daysShort": "Mon-Fri",
+					"hours": "09:00-20:00",
+					"isOpen": false
+				},
+				{
+					"daysShort": "Sat",
+					"hours": "09:00-19:00",
+					"isOpen": false
+				},
+				{
+					"daysShort": "Sun",
+					"hours": "11:00-17:00",
+					"isOpen": false
+				}
+			],
+			"latitude": 50.903008,
+			"longitude": -1.405811,
+			"mapUrl": null,
+			"ors": true,
+			"phone": "+44 2380 223731",
+			"postcode": "SO15 1QE",
+			"state": null,
+			"storeId": "8799304779768",
+			"storeName": "Levi's® Southampton",
+			"storeType": "STORE",
+			"todaysHrsOfOperation": {
+				"daysShort": "Fri",
+				"hours": "20:00",
+				"isOpen": true
+			},
+			"uom": null
+		},
+		{
+			"addLine1": "Unit 324a, West Thurrock Way, Lakeside Shopping Centre, Thurrock",
+			"addLine2": null,
+			"city": "Thurrock",
+			"country": "GB",
+			"departments": [
+				"WOMEN",
+				"MEN"
+			],
+			"distance": 0,
+			"hrsOfOperation": [
+				{
+					"daysShort": "Mon-Sat",
+					"hours": "10:00-21:00",
+					"isOpen": false
+				},
+				{
+					"daysShort": "Sun",
+					"hours": "11:00-17:00",
+					"isOpen": false
+				}
+			],
+			"latitude": 51.4877,
+			"longitude": 0.2835,
+			"mapUrl": null,
+			"ors": true,
+			"phone": "+44 1708 681813",
+			"postcode": "RM20 2ZT",
+			"state": null,
+			"storeId": "8799304812536",
+			"storeName": "Levi's® Thurrock",
+			"storeType": "STORE",
+			"todaysHrsOfOperation": {
+				"daysShort": "Fri",
+				"hours": "21:00",
+				"isOpen": true
+			},
+			"uom": null
+		},
+		{
+			"addLine1": "Unit 118 - Intu Watford",
+			"addLine2": null,
+			"city": "Watford",
+			"country": "GB",
+			"departments": [
+				"WOMEN",
+				"MEN"
+			],
+			"distance": 0,
+			"hrsOfOperation": [
+				{
+					"daysShort": "Mon-Wed",
+					"hours": "09:00-18:00",
+					"isOpen": false
+				},
+				{
+					"daysShort": "Thu",
+					"hours": "09:00-21:00",
+					"isOpen": false
+				},
+				{
+					"daysShort": "Fri",
+					"hours": "09:00-18:00",
+					"isOpen": false
+				},
+				{
+					"daysShort": "Sat",
+					"hours": "09:00-19:00",
+					"isOpen": false
+				},
+				{
+					"daysShort": "Sun",
+					"hours": "11:00-17:00",
+					"isOpen": false
+				}
+			],
+			"latitude": 51.655357,
+			"longitude": -0.3936,
+			"mapUrl": null,
+			"ors": true,
+			"phone": "+44 19 2380 5854",
+			"postcode": "WD17 2UB",
+			"state": null,
+			"storeId": "8799304845304",
+			"storeName": "Levi's® Watford",
+			"storeType": "STORE",
+			"todaysHrsOfOperation": {
+				"daysShort": "Fri",
+				"hours": "18:00",
+				"isOpen": true
+			},
+			"uom": null
+		},
+		{
+			"addLine1": "Unit W1, Silverburn Shopping Center, Barrhead Road",
+			"addLine2": null,
+			"city": "Glasgow",
+			"country": "GB",
+			"departments": [
+				"WOMEN",
+				"MEN"
+			],
+			"distance": 0,
+			"hrsOfOperation": [
+				{
+					"daysShort": "Mon-Fri",
+					"hours": "09:00-21:00",
+					"isOpen": false
+				},
+				{
+					"daysShort": "Sat-Sun",
+					"hours": "09:00-19:00",
+					"isOpen": false
+				}
+			],
+			"latitude": 55.821648,
+			"longitude": -4.341767,
+			"mapUrl": null,
+			"ors": true,
+			"phone": "+44 14 1881 0063",
+			"postcode": "G53 6AG",
+			"state": null,
+			"storeId": "8799304878072",
+			"storeName": "Levi's® Silverburn",
+			"storeType": "STORE",
+			"todaysHrsOfOperation": {
+				"daysShort": "Fri",
+				"hours": "21:00",
+				"isOpen": true
+			},
+			"uom": null
+		},
+		{
+			"addLine1": "Unit 102 Paradise Street, Liverpool One",
+			"addLine2": null,
+			"city": "Liverpool",
+			"country": "GB",
+			"departments": [
+				"WOMEN",
+				"MEN"
+			],
+			"distance": 0,
+			"hrsOfOperation": [
+				{
+					"daysShort": "Mon-Fri",
+					"hours": "09:30-20:00",
+					"isOpen": false
+				},
+				{
+					"daysShort": "Sat",
+					"hours": "09:00-19:00",
+					"isOpen": false
+				},
+				{
+					"daysShort": "Sun",
+					"hours": "11:00-17:00",
+					"isOpen": false
+				}
+			],
+			"latitude": 53.404239,
+			"longitude": -2.985736,
+			"mapUrl": null,
+			"ors": true,
+			"phone": "+44 15 1708 5251",
+			"postcode": "L1 3ED",
+			"state": null,
+			"storeId": "8799304910840",
+			"storeName": "Levi's® Liverpool One",
+			"storeType": "STORE",
+			"todaysHrsOfOperation": {
+				"daysShort": "Fri",
+				"hours": "20:00",
+				"isOpen": true
+			},
+			"uom": null
+		},
+		{
+			"addLine1": "41 Great Marlborough Street",
+			"addLine2": null,
+			"city": "London",
+			"country": "GB",
+			"departments": [
+				"WOMEN",
+				"MEN"
+			],
+			"distance": 0,
+			"hrsOfOperation": [
+				{
+					"daysShort": "Mon-Sat",
+					"hours": "11:00-18:30",
+					"isOpen": false
+				},
+				{
+					"daysShort": "Sun",
+					"hours": "12:00-17:00",
+					"isOpen": false
+				}
+			],
+			"latitude": 51.514271,
+			"longitude": -0.138982,
+			"mapUrl": null,
+			"ors": true,
+			"phone": "+44 2078 510 529",
+			"postcode": "W1F 7RG",
+			"state": null,
+			"storeId": "8799337089016",
+			"storeName": "Levi's® London Haus",
+			"storeType": "STORE",
+			"todaysHrsOfOperation": {
+				"daysShort": "Fri",
+				"hours": "18:30",
+				"isOpen": true
+			},
+			"uom": null
+		},
+		{
+			"addLine1": "70, Kimberley Way Ashford Designer Village",
+			"addLine2": null,
+			"city": "Ashford",
+			"country": "GB",
+			"departments": [
+				"WOMEN",
+				"MEN"
+			],
+			"distance": 0,
+			"hrsOfOperation": [
+				{
+					"daysShort": "Mon-Sat",
+					"hours": "10:00-20:00",
+					"isOpen": false
+				},
+				{
+					"daysShort": "Sun",
+					"hours": "10:00-18:00",
+					"isOpen": false
+				}
+			],
+			"latitude": 51.137349,
+			"longitude": 0.87676,
+			"mapUrl": null,
+			"ors": false,
+			"phone": "+44 1233 621149",
+			"postcode": "TN24 0SD",
+			"state": null,
+			"storeId": "8799337121784",
+			"storeName": "Levi's® Factory Outlet Ashford Designer Village",
+			"storeType": "OUTLET",
+			"todaysHrsOfOperation": {
+				"daysShort": "Fri",
+				"hours": "20:00",
+				"isOpen": true
+			},
+			"uom": null
+		},
+		{
+			"addLine1": "Unit 53 Bicester Village, Pingle drive",
+			"addLine2": null,
+			"city": "Bicester",
+			"country": "GB",
+			"departments": [
+				"WOMEN",
+				"MEN"
+			],
+			"distance": 0,
+			"hrsOfOperation": [
+				{
+					"daysShort": "Mon",
+					"hours": "09:00-21:00",
+					"isOpen": false
+				},
+				{
+					"daysShort": "Tue-Thu",
+					"hours": "09:00-20:00",
+					"isOpen": false
+				},
+				{
+					"daysShort": "Fri",
+					"hours": "09:00-19:00",
+					"isOpen": false
+				},
+				{
+					"daysShort": "Sat",
+					"hours": "09:00-21:00",
+					"isOpen": false
+				},
+				{
+					"daysShort": "Sun",
+					"hours": "10:00-19:00",
+					"isOpen": false
+				}
+			],
+			"latitude": 51.891545,
+			"longitude": -1.154957,
+			"mapUrl": null,
+			"ors": false,
+			"phone": "+44 1869 360047",
+			"postcode": "OX26 6WD",
+			"state": null,
+			"storeId": "8799337154552",
+			"storeName": "Levi's® Factory Outlet Bicester Village",
+			"storeType": "OUTLET",
+			"todaysHrsOfOperation": {
+				"daysShort": "Fri",
+				"hours": "19:00",
+				"isOpen": true
+			},
+			"uom": null
+		},
+		{
+			"addLine1": "Freeport Designer Outlet Village",
+			"addLine2": null,
+			"city": "Braintree",
+			"country": "GB",
+			"departments": [
+				"WOMEN",
+				"MEN"
+			],
+			"distance": 0,
+			"hrsOfOperation": [
+				{
+					"daysShort": "Mon-Wed",
+					"hours": "10:00-18:00",
+					"isOpen": false
+				},
+				{
+					"daysShort": "Thu",
+					"hours": "10:00-20:00",
+					"isOpen": false
+				},
+				{
+					"daysShort": "Fri",
+					"hours": "10:00-18:00",
+					"isOpen": false
+				},
+				{
+					"daysShort": "Sat",
+					"hours": "10:00-19:00",
+					"isOpen": false
+				},
+				{
+					"daysShort": "Sun",
+					"hours": "10:00-17:00",
+					"isOpen": false
+				}
+			],
+			"latitude": 51.870105,
+			"longitude": 0.570796,
+			"mapUrl": null,
+			"ors": false,
+			"phone": "+44 1376 327172",
+			"postcode": "CM77 8YH",
+			"state": null,
+			"storeId": "8799337187320",
+			"storeName": "Levi's® Factory Outlet Braintree Pop-Up 2",
+			"storeType": "OUTLET",
+			"todaysHrsOfOperation": {
+				"daysShort": "Fri",
+				"hours": "18:00",
+				"isOpen": true
+			},
+			"uom": null
+		},
+		{
+			"addLine1": "Unit 96A, McArthurGlen Outlet, The Derwen",
+			"addLine2": null,
+			"city": "Bridgend",
+			"country": "GB",
+			"departments": [
+				"WOMEN",
+				"MEN"
+			],
+			"distance": 0,
+			"hrsOfOperation": [
+				{
+					"daysShort": "Mon-Fri",
+					"hours": "10:00-20:00",
+					"isOpen": false
+				},
+				{
+					"daysShort": "Sat",
+					"hours": "10:00-19:00",
+					"isOpen": false
+				},
+				{
+					"daysShort": "Sun",
+					"hours": "10:00-17:00",
+					"isOpen": false
+				}
+			],
+			"latitude": 51.532662,
+			"longitude": -3.575564,
+			"mapUrl": null,
+			"ors": false,
+			"phone": "+44 1656 767335",
+			"postcode": "CF32 9SU",
+			"state": null,
+			"storeId": "8799337220088",
+			"storeName": "Levi's® Factory Outlet Bridgend McArthurGlen",
+			"storeType": "OUTLET",
+			"todaysHrsOfOperation": {
+				"daysShort": "Fri",
+				"hours": "20:00",
+				"isOpen": true
+			},
+			"uom": null
+		},
+		{
+			"addLine1": "Unit A8/9 Junction 32 Shopping Centre",
+			"addLine2": null,
+			"city": "Castleford",
+			"country": "GB",
+			"departments": [
+				"WOMEN",
+				"MEN"
+			],
+			"distance": 0,
+			"hrsOfOperation": [
+				{
+					"daysShort": "Mon-Fri",
+					"hours": "10:00-20:00",
+					"isOpen": false
+				},
+				{
+					"daysShort": "Sat",
+					"hours": "10:00-18:00",
+					"isOpen": false
+				},
+				{
+					"daysShort": "Sun",
+					"hours": "11:00-17:00",
+					"isOpen": false
+				}
+			],
+			"latitude": 53.723466,
+			"longitude": -1.345968,
+			"mapUrl": null,
+			"ors": false,
+			"phone": "+44 1977 512560",
+			"postcode": "WF10 4FR",
+			"state": null,
+			"storeId": "8799337252856",
+			"storeName": "Levi's® Factory Outlet Castleford Pop-Up",
+			"storeType": "OUTLET",
+			"todaysHrsOfOperation": {
+				"daysShort": "Fri",
+				"hours": "20:00",
+				"isOpen": true
+			},
+			"uom": null
+		},
+		{
+			"addLine1": "Unit 6A Cheshire Oaks Ellesmere Port",
+			"addLine2": null,
+			"city": "Little Stanney",
+			"country": "GB",
+			"departments": [
+				"WOMEN",
+				"MEN"
+			],
+			"distance": 0,
+			"hrsOfOperation": [
+				{
+					"daysShort": "Mon-Fri",
+					"hours": "10:00-20:00",
+					"isOpen": false
+				},
+				{
+					"daysShort": "Sat",
+					"hours": "09:00-20:00",
+					"isOpen": false
+				},
+				{
+					"daysShort": "Sun",
+					"hours": "11:00-17:00",
+					"isOpen": false
+				}
+			],
+			"latitude": 53.26045,
+			"longitude": -2.882238,
+			"mapUrl": null,
+			"ors": false,
+			"phone": "+44 1513 552807",
+			"postcode": "CH65 9JJ",
+			"state": null,
+			"storeId": "8799337285624",
+			"storeName": "Levi's® Factory Outlet Chester Cheshire Oaks",
+			"storeType": "OUTLET",
+			"todaysHrsOfOperation": {
+				"daysShort": "Fri",
+				"hours": "20:00",
+				"isOpen": true
+			},
+			"uom": null
+		},
+		{
+			"addLine1": "Unit 28 East Midlands Designer Outlet Mansfield Road",
+			"addLine2": null,
+			"city": "Derbyshire",
+			"country": "GB",
+			"departments": [
+				"WOMEN",
+				"MEN"
+			],
+			"distance": 0,
+			"hrsOfOperation": [
+				{
+					"daysShort": "Mon-Fri",
+					"hours": "09:00-20:00",
+					"isOpen": false
+				},
+				{
+					"daysShort": "Sat",
+					"hours": "09:00-19:00",
+					"isOpen": false
+				},
+				{
+					"daysShort": "Sun",
+					"hours": "10:00-17:00",
+					"isOpen": false
+				}
+			],
+			"latitude": 53.106348,
+			"longitude": -1.311075,
+			"mapUrl": null,
+			"ors": false,
+			"phone": "+44 1773 545070",
+			"postcode": "DE55 2JW",
+			"state": null,
+			"storeId": "8799337318392",
+			"storeName": "Levi's® Factory Outlet Derbyshire Mansfield",
+			"storeType": "OUTLET",
+			"todaysHrsOfOperation": {
+				"daysShort": "Fri",
+				"hours": "20:00",
+				"isOpen": true
+			},
+			"uom": null
+		},
+		{
+			"addLine1": "Unit 6 Dalton Park - Murton",
+			"addLine2": null,
+			"city": "Co. Durham",
+			"country": "GB",
+			"departments": [
+				"WOMEN",
+				"MEN"
+			],
+			"distance": 0,
+			"hrsOfOperation": [
+				{
+					"daysShort": "Mon-Wed",
+					"hours": "10:00-18:00",
+					"isOpen": false
+				},
+				{
+					"daysShort": "Thu",
+					"hours": "10:00-20:00",
+					"isOpen": false
+				},
+				{
+					"daysShort": "Fri",
+					"hours": "10:00-18:00",
+					"isOpen": false
+				},
+				{
+					"daysShort": "Sat",
+					"hours": "09:30-18:00",
+					"isOpen": false
+				},
+				{
+					"daysShort": "Sun",
+					"hours": "10:30-17:00",
+					"isOpen": false
+				}
+			],
+			"latitude": 54.81476,
+			"longitude": -1.377115,
+			"mapUrl": null,
+			"ors": false,
+			"phone": "+44 1915 173732",
+			"postcode": "SR7 9HU",
+			"state": null,
+			"storeId": "8799337351160",
+			"storeName": "Levi's® Factory Outlet Durham Dalton Park",
+			"storeType": "OUTLET",
+			"todaysHrsOfOperation": {
+				"daysShort": "Fri",
+				"hours": "18:00",
+				"isOpen": true
+			},
+			"uom": null
+		},
+		{
+			"addLine1": "Unit 111 Livingston Designer Outlet, Almondvale Avenue",
+			"addLine2": null,
+			"city": "Livingston",
+			"country": "GB",
+			"departments": [
+				"WOMEN",
+				"MEN"
+			],
+			"distance": 0,
+			"hrsOfOperation": [
+				{
+					"daysShort": "Mon-Wed",
+					"hours": "09:00-18:00",
+					"isOpen": false
+				},
+				{
+					"daysShort": "Thu",
+					"hours": "09:00-20:00",
+					"isOpen": false
+				},
+				{
+					"daysShort": "Fri-Sat",
+					"hours": "09:00-18:00",
+					"isOpen": false
+				},
+				{
+					"daysShort": "Sun",
+					"hours": "10:00-18:00",
+					"isOpen": false
+				}
+			],
+			"latitude": 55.883088,
+			"longitude": -3.521146,
+			"mapUrl": null,
+			"ors": false,
+			"phone": "+44 1506 461657",
+			"postcode": "EH54 6QX",
+			"state": null,
+			"storeId": "8799337383928",
+			"storeName": "Levi's® Factory Outlet Livingston Designer Village",
+			"storeType": "OUTLET",
+			"todaysHrsOfOperation": {
+				"daysShort": "Fri",
+				"hours": "18:00",
+				"isOpen": true
+			},
+			"uom": null
+		},
+		{
+			"addLine1": "Wembley Park Boulevard - unit 76",
+			"addLine2": null,
+			"city": "London",
+			"country": "GB",
+			"departments": [
+				"WOMEN",
+				"MEN"
+			],
+			"distance": 0,
+			"hrsOfOperation": [
+				{
+					"daysShort": "Mon-Sat",
+					"hours": "10:00-20:00",
+					"isOpen": false
+				},
+				{
+					"daysShort": "Sun",
+					"hours": "10:00-19:00",
+					"isOpen": false
+				}
+			],
+			"latitude": 51.557089,
+			"longitude": -0.283875,
+			"mapUrl": null,
+			"ors": false,
+			"phone": "+44 2089 038884",
+			"postcode": "HA9 0QL",
+			"state": null,
+			"storeId": "8799337416696",
+			"storeName": "Levi's® Factory Outlet London Wembley Designer Outlet",
+			"storeType": "OUTLET",
+			"todaysHrsOfOperation": {
+				"daysShort": "Fri",
+				"hours": "20:00",
+				"isOpen": true
+			},
+			"uom": null
+		},
+		{
+			"addLine1": "Gunwharf Quays - Unit 13",
+			"addLine2": null,
+			"city": "Portsmouth",
+			"country": "GB",
+			"departments": [
+				"WOMEN",
+				"MEN"
+			],
+			"distance": 0,
+			"hrsOfOperation": [
+				{
+					"daysShort": "Mon-Sat",
+					"hours": "10:00-20:00",
+					"isOpen": false
+				},
+				{
+					"daysShort": "Sun",
+					"hours": "10:00-18:00",
+					"isOpen": false
+				}
+			],
+			"latitude": 50.794943,
+			"longitude": -1.105801,
+			"mapUrl": null,
+			"ors": false,
+			"phone": "+44 2392 755484",
+			"postcode": "PO1 3TP",
+			"state": null,
+			"storeId": "8799337449464",
+			"storeName": "Levi's® Factory Outlet Portsmouth",
+			"storeType": "OUTLET",
+			"todaysHrsOfOperation": {
+				"daysShort": "Fri",
+				"hours": "20:00",
+				"isOpen": true
+			},
+			"uom": null
+		},
+		{
+			"addLine1": "Unit 49, Farm Road",
+			"addLine2": null,
+			"city": "Street",
+			"country": "GB",
+			"departments": [
+				"WOMEN",
+				"MEN"
+			],
+			"distance": 0,
+			"hrsOfOperation": [
+				{
+					"daysShort": "Mon",
+					"hours": "09:00-18:00",
+					"isOpen": false
+				},
+				{
+					"daysShort": "Tue-Fri",
+					"hours": "10:00-19:00",
+					"isOpen": false
+				},
+				{
+					"daysShort": "Sat",
+					"hours": "09:00-18:00",
+					"isOpen": false
+				},
+				{
+					"daysShort": "Sun",
+					"hours": "11:30-17:00",
+					"isOpen": false
+				}
+			],
+			"latitude": 51.128,
+			"longitude": -2.741,
+			"mapUrl": null,
+			"ors": false,
+			"phone": "+44 1458 446939",
+			"postcode": "BA16 0BB",
+			"state": null,
+			"storeId": "8799337482232",
+			"storeName": "Levi's® Factory Outlet Street Clarks Village",
+			"storeType": "OUTLET",
+			"todaysHrsOfOperation": {
+				"daysShort": "Fri",
+				"hours": "19:00",
+				"isOpen": true
+			},
+			"uom": null
+		},
+		{
+			"addLine1": "Great Western Designer Village - Unit 63, Kemble Drive",
+			"addLine2": null,
+			"city": "Swindon",
+			"country": "GB",
+			"departments": [
+				"WOMEN",
+				"MEN"
+			],
+			"distance": 0,
+			"hrsOfOperation": [
+				{
+					"daysShort": "Mon-Fri",
+					"hours": "10:00-20:00",
+					"isOpen": false
+				},
+				{
+					"daysShort": "Sat",
+					"hours": "09:00-19:00",
+					"isOpen": false
+				},
+				{
+					"daysShort": "Sun",
+					"hours": "10:00-17:00",
+					"isOpen": false
+				}
+			],
+			"latitude": 51.562589,
+			"longitude": -1.798104,
+			"mapUrl": null,
+			"ors": false,
+			"phone": "+44 1793 693339",
+			"postcode": "SN2 2DZ",
+			"state": null,
+			"storeId": "8799337515000",
+			"storeName": "Levi's® Factory Outlet Swindon",
+			"storeType": "OUTLET",
+			"todaysHrsOfOperation": {
+				"daysShort": "Fri",
+				"hours": "20:00",
+				"isOpen": true
+			},
+			"uom": null
+		},
+		{
+			"addLine1": "Unit 62 South Mall Outlet Village",
+			"addLine2": null,
+			"city": "York",
+			"country": "GB",
+			"departments": [
+				"WOMEN",
+				"MEN"
+			],
+			"distance": 0,
+			"hrsOfOperation": [
+				{
+					"daysShort": "Mon-Fri",
+					"hours": "10:00-20:00",
+					"isOpen": false
+				},
+				{
+					"daysShort": "Sat",
+					"hours": "09:00-20:00",
+					"isOpen": false
+				},
+				{
+					"daysShort": "Sun",
+					"hours": "10:00-18:00",
+					"isOpen": false
+				}
+			],
+			"latitude": 53.922229,
+			"longitude": -1.078193,
+			"mapUrl": null,
+			"ors": false,
+			"phone": "+44 1904 679950",
+			"postcode": "YO19 4TA",
+			"state": null,
+			"storeId": "8799337547768",
+			"storeName": "Levi's® Factory Outlet York South Mall",
+			"storeType": "OUTLET",
+			"todaysHrsOfOperation": {
+				"daysShort": "Fri",
+				"hours": "20:00",
+				"isOpen": true
+			},
+			"uom": null
+		},
+		{
+			"addLine1": "Unit 72-74 Churchill Square Shopping Centre",
+			"addLine2": null,
+			"city": "Brighton",
+			"country": "GB",
+			"departments": [
+				"WOMEN",
+				"MEN"
+			],
+			"distance": 0,
+			"hrsOfOperation": [
+				{
+					"daysShort": "Mon-Wed",
+					"hours": "09:00-18:00",
+					"isOpen": false
+				},
+				{
+					"daysShort": "Thu",
+					"hours": "09:00-20:00",
+					"isOpen": false
+				},
+				{
+					"daysShort": "Fri-Sat",
+					"hours": "09:00-19:00",
+					"isOpen": false
+				},
+				{
+					"daysShort": "Sun",
+					"hours": "11:00-16:00",
+					"isOpen": false
+				}
+			],
+			"latitude": 50.823036,
+			"longitude": -0.144856,
+			"mapUrl": null,
+			"ors": true,
+			"phone": "+44 1273 722609",
+			"postcode": "BN1 2RG",
+			"state": null,
+			"storeId": "8799337580536",
+			"storeName": "Levi's® Brighton",
+			"storeType": "STORE",
+			"todaysHrsOfOperation": {
+				"daysShort": "Fri",
+				"hours": "19:00",
+				"isOpen": true
+			},
+			"uom": null
+		},
+		{
+			"addLine1": "Unit 64 Gloucester Quays Outlet, St Ann Way",
+			"addLine2": null,
+			"city": "Gloucester",
+			"country": "GB",
+			"departments": [
+				"WOMEN",
+				"MEN"
+			],
+			"distance": 0,
+			"hrsOfOperation": [
+				{
+					"daysShort": "Mon-Fri",
+					"hours": "10:00-20:00",
+					"isOpen": false
+				},
+				{
+					"daysShort": "Sat",
+					"hours": "10:00-19:00",
+					"isOpen": false
+				},
+				{
+					"daysShort": "Sun",
+					"hours": "10:00-17:00",
+					"isOpen": false
+				}
+			],
+			"latitude": 51.8596607,
+			"longitude": -2.2548,
+			"mapUrl": null,
+			"ors": false,
+			"phone": "+44 1452 521270",
+			"postcode": "GL1 5SH",
+			"state": null,
+			"storeId": "8799337613304",
+			"storeName": "Levi's® Gloucester Quays",
+			"storeType": "STORE",
+			"todaysHrsOfOperation": {
+				"daysShort": "Fri",
+				"hours": "20:00",
+				"isOpen": true
+			},
+			"uom": null
+		},
+		{
+			"addLine1": "Unit LO25 Lower Rose Gallery Bluewater",
+			"addLine2": null,
+			"city": "Greenhithe",
+			"country": "GB",
+			"departments": [
+				"WOMEN",
+				"MEN"
+			],
+			"distance": 0,
+			"hrsOfOperation": [
+				{
+					"daysShort": "Mon-Fri",
+					"hours": "10:00-21:00",
+					"isOpen": false
+				},
+				{
+					"daysShort": "Sat",
+					"hours": "09:00-21:00",
+					"isOpen": false
+				},
+				{
+					"daysShort": "Sun",
+					"hours": "11:00-17:00",
+					"isOpen": false
+				}
+			],
+			"latitude": 51.438632,
+			"longitude": 0.272445,
+			"mapUrl": null,
+			"ors": true,
+			"phone": "+44 1322 624871",
+			"postcode": "DA9 9SH",
+			"state": null,
+			"storeId": "8799337646072",
+			"storeName": "Levi's® Bluewater",
+			"storeType": "STORE",
+			"todaysHrsOfOperation": {
+				"daysShort": "Fri",
+				"hours": "21:00",
+				"isOpen": true
+			},
+			"uom": null
+		},
+		{
+			"addLine1": "30 Lands Lane",
+			"addLine2": null,
+			"city": "Leeds",
+			"country": "GB",
+			"departments": [
+				"WOMEN",
+				"MEN"
+			],
+			"distance": 0,
+			"hrsOfOperation": [
+				{
+					"daysShort": "Mon-Wed",
+					"hours": "10:00-18:00",
+					"isOpen": false
+				},
+				{
+					"daysShort": "Thu-Fri",
+					"hours": "10:00-19:00",
+					"isOpen": false
+				},
+				{
+					"daysShort": "Sat",
+					"hours": "09:00-19:00",
+					"isOpen": false
+				},
+				{
+					"daysShort": "Sun",
+					"hours": "11:00-17:00",
+					"isOpen": false
+				}
+			],
+			"latitude": 53.798953,
+			"longitude": -1.541627,
+			"mapUrl": null,
+			"ors": true,
+			"phone": "+44 1132 469427",
+			"postcode": "LS1 6LB",
+			"state": null,
+			"storeId": "8799337678840",
+			"storeName": "Levi's® Leeds",
+			"storeType": "STORE",
+			"todaysHrsOfOperation": {
+				"daysShort": "Fri",
+				"hours": "19:00",
+				"isOpen": true
+			},
+			"uom": null
+		},
+		{
+			"addLine1": "176 Regent Street",
+			"addLine2": null,
+			"city": "London",
+			"country": "GB",
+			"departments": [
+				"WOMEN",
+				"MEN"
+			],
+			"distance": 0,
+			"hrsOfOperation": [
+				{
+					"daysShort": "Mon-Sat",
+					"hours": "10:00-20:00",
+					"isOpen": false
+				},
+				{
+					"daysShort": "Sun",
+					"hours": "12:00-18:00",
+					"isOpen": false
+				}
+			],
+			"latitude": 51.515708,
+			"longitude": -0.142353,
+			"mapUrl": null,
+			"ors": true,
+			"phone": "+44 2072 922500",
+			"postcode": "W1B 5TJ",
+			"state": null,
+			"storeId": "8799337711608",
+			"storeName": "Levi's® Regent Street",
+			"storeType": "STORE",
+			"todaysHrsOfOperation": {
+				"daysShort": "Fri",
+				"hours": "20:00",
+				"isOpen": true
+			},
+			"uom": null
+		},
+		{
+			"addLine1": "156 Regent Crescent, Trafford Centre",
+			"addLine2": null,
+			"city": "Manchester",
+			"country": "GB",
+			"departments": [
+				"WOMEN",
+				"MEN"
+			],
+			"distance": 0,
+			"hrsOfOperation": [
+				{
+					"daysShort": "Mon-Fri",
+					"hours": "10:00-21:00",
+					"isOpen": false
+				},
+				{
+					"daysShort": "Sat",
+					"hours": "10:00-20:00",
+					"isOpen": false
+				},
+				{
+					"daysShort": "Sun",
+					"hours": "11:00-17:00",
+					"isOpen": false
+				}
+			],
+			"latitude": 53.385864,
+			"longitude": -2.352046,
+			"mapUrl": null,
+			"ors": true,
+			"phone": "+44 1617 468800",
+			"postcode": "M17 8AP",
+			"state": null,
+			"storeId": "8799337744376",
+			"storeName": "Levi's® Trafford Centre",
+			"storeType": "STORE",
+			"todaysHrsOfOperation": {
+				"daysShort": "Fri",
+				"hours": "21:00",
+				"isOpen": true
+			},
+			"uom": null
+		},
+		{
+			"addLine1": "Unit 14 235 Merchants Hall Upper Ground Chapelfield",
+			"addLine2": null,
+			"city": "Norwich",
+			"country": "GB",
+			"departments": [
+				"WOMEN",
+				"MEN"
+			],
+			"distance": 0,
+			"hrsOfOperation": [
+				{
+					"daysShort": "Mon-Wed",
+					"hours": "09:00-18:00",
+					"isOpen": false
+				},
+				{
+					"daysShort": "Thu",
+					"hours": "09:00-20:00",
+					"isOpen": false
+				},
+				{
+					"daysShort": "Fri-Sat",
+					"hours": "09:00-19:00",
+					"isOpen": false
+				},
+				{
+					"daysShort": "Sun",
+					"hours": "11:00-17:00",
+					"isOpen": false
+				}
+			],
+			"latitude": 52.626072,
+			"longitude": 1.290214,
+			"mapUrl": null,
+			"ors": true,
+			"phone": "+44 1603 660738",
+			"postcode": "NR1 3SH",
+			"state": null,
+			"storeId": "8799337777144",
+			"storeName": "Levi's® Norwich",
+			"storeType": "STORE",
+			"todaysHrsOfOperation": {
+				"daysShort": "Fri",
+				"hours": "19:00",
+				"isOpen": true
+			},
+			"uom": null
+		},
+		{
+			"addLine1": "Unit 2046 Westfield Stratford City",
+			"addLine2": null,
+			"city": "London",
+			"country": "GB",
+			"departments": [
+				"WOMEN",
+				"MEN"
+			],
+			"distance": 0,
+			"hrsOfOperation": [
+				{
+					"daysShort": "Mon-Fri",
+					"hours": "10:00-21:00",
+					"isOpen": false
+				},
+				{
+					"daysShort": "Sat",
+					"hours": "09:00-21:00",
+					"isOpen": false
+				},
+				{
+					"daysShort": "Sun",
+					"hours": "12:00-18:00",
+					"isOpen": false
+				}
+			],
+			"latitude": 51.5432,
+			"longitude": -0.007,
+			"mapUrl": null,
+			"ors": true,
+			"phone": "+44 2085 553291",
+			"postcode": "E20 1EQ",
+			"state": null,
+			"storeId": "8799337809912",
+			"storeName": "Levi's® Westfield Stratford",
+			"storeType": "STORE",
+			"todaysHrsOfOperation": {
+				"daysShort": "Fri",
+				"hours": "21:00",
+				"isOpen": true
+			},
+			"uom": null
+		},
+		{
+			"addLine1": "3 Ariel Way",
+			"addLine2": null,
+			"city": "London",
+			"country": "GB",
+			"departments": [
+				"WOMEN",
+				"MEN"
+			],
+			"distance": 0,
+			"hrsOfOperation": [
+				{
+					"daysShort": "Mon-Sat",
+					"hours": "10:00-22:00",
+					"isOpen": false
+				},
+				{
+					"daysShort": "Sun",
+					"hours": "12:00-18:00",
+					"isOpen": false
+				}
+			],
+			"latitude": 51.50719,
+			"longitude": -0.222284,
+			"mapUrl": null,
+			"ors": true,
+			"phone": "+44 20 8749 5400",
+			"postcode": "W12 7GG",
+			"state": null,
+			"storeId": "8799337842680",
+			"storeName": "Levi's® White City",
+			"storeType": "STORE",
+			"todaysHrsOfOperation": {
+				"daysShort": "Fri",
+				"hours": "22:00",
+				"isOpen": true
+			},
+			"uom": null
+		},
+		{
+			"addLine1": "208-222 Regent Street",
+			"addLine2": null,
+			"city": "London",
+			"country": "GB",
+			"departments": [
+				"WOMEN",
+				"MEN"
+			],
+			"distance": 0,
+			"hrsOfOperation": [
+				{
+					"daysShort": "Mon-Sat",
+					"hours": "10:00-20:00",
+					"isOpen": false
+				},
+				{
+					"daysShort": "Sun",
+					"hours": "12:00-18:00",
+					"isOpen": false
+				}
+			],
+			"latitude": 51.5136,
+			"longitude": -0.1411,
+			"mapUrl": null,
+			"ors": false,
+			"phone": "+44 20 7734 1234",
+			"postcode": "W1B 5AH",
+			"state": null,
+			"storeId": "8799337875448",
+			"storeName": "Liberty ft. Levi's® Vintage Clothing",
+			"storeType": "RETAILER",
+			"todaysHrsOfOperation": {
+				"daysShort": "Fri",
+				"hours": "20:00",
+				"isOpen": true
+			},
+			"uom": null
+		},
+		{
+			"addLine1": "63 Thomas Street",
+			"addLine2": null,
+			"city": "Manchester",
+			"country": "GB",
+			"departments": [
+				"WOMEN",
+				"MEN"
+			],
+			"distance": 0,
+			"hrsOfOperation": [
+				{
+					"daysShort": "Mon-Sat",
+					"hours": "10:00-18:00",
+					"isOpen": false
+				},
+				{
+					"daysShort": "Sun",
+					"hours": "12:00-17:00",
+					"isOpen": false
+				}
+			],
+			"latitude": 53.4836,
+			"longitude": -2.2356,
+			"mapUrl": null,
+			"ors": false,
+			"phone": "+44 16 1831 7870",
+			"postcode": "M4 1LQ",
+			"state": null,
+			"storeId": "8799337908216",
+			"storeName": "Oi Polloi ft. Levi's® Vintage Clothing",
+			"storeType": "RETAILER",
+			"todaysHrsOfOperation": {
+				"daysShort": "Fri",
+				"hours": "18:00",
+				"isOpen": true
+			},
+			"uom": null
+		},
+		{
+			"addLine1": "43 Coronet Street",
+			"addLine2": null,
+			"city": "London",
+			"country": "GB",
+			"departments": [
+				"WOMEN",
+				"MEN"
+			],
+			"distance": 0,
+			"hrsOfOperation": [
+				{
+					"daysShort": "Mon-Sat",
+					"hours": "11:00-18:30",
+					"isOpen": false
+				},
+				{
+					"daysShort": "Sun",
+					"hours": "12:00-17:00",
+					"isOpen": false
+				}
+			],
+			"latitude": 51.5271,
+			"longitude": -0.0821,
+			"mapUrl": null,
+			"ors": false,
+			"phone": "+44 20 7729 3600",
+			"postcode": "N1 6HD",
+			"state": null,
+			"storeId": "8799337940984",
+			"storeName": "The Goodhood Store ft. Levi's® Vintage Clothing",
+			"storeType": "RETAILER",
+			"todaysHrsOfOperation": {
+				"daysShort": "Fri",
+				"hours": "18:30",
+				"isOpen": true
+			},
+			"uom": null
+		},
+		{
+			"addLine1": "SU11 25 Princesshay",
+			"addLine2": null,
+			"city": "Exeter",
+			"country": "GB",
+			"departments": [
+				"WOMEN",
+				"MEN"
+			],
+			"distance": 0,
+			"hrsOfOperation": [
+				{
+					"daysShort": "Mon-Sat",
+					"hours": "09:30-18:00",
+					"isOpen": false
+				},
+				{
+					"daysShort": "Sun",
+					"hours": "11:00-17:00",
+					"isOpen": false
+				}
+			],
+			"latitude": 50.724501,
+			"longitude": -3.527709,
+			"mapUrl": null,
+			"ors": true,
+			"phone": "+44 13 9243 2970",
+			"postcode": "EX1 1GE",
+			"state": null,
+			"storeId": "8799337973752",
+			"storeName": "Levi's® Exeter",
+			"storeType": "STORE",
+			"todaysHrsOfOperation": {
+				"daysShort": "Fri",
+				"hours": "18:00",
+				"isOpen": true
+			},
+			"uom": null
+		},
+		{
+			"addLine1": "Queen Street, 250 The Westgate, Unit 34",
+			"addLine2": null,
+			"city": "Oxford",
+			"country": "GB",
+			"departments": [
+				"WOMEN",
+				"MEN"
+			],
+			"distance": 0,
+			"hrsOfOperation": [
+				{
+					"daysShort": "Mon-Fri",
+					"hours": "10:00-20:00",
+					"isOpen": false
+				},
+				{
+					"daysShort": "Sat",
+					"hours": "09:00-20:00",
+					"isOpen": false
+				},
+				{
+					"daysShort": "Sun",
+					"hours": "11:00-17:00",
+					"isOpen": false
+				}
+			],
+			"latitude": 51.749958,
+			"longitude": -1.258905,
+			"mapUrl": null,
+			"ors": true,
+			"phone": "+44 1865 790403",
+			"postcode": "OX1 1TR",
+			"state": null,
+			"storeId": "8799353899000",
+			"storeName": "Levi's® Oxford",
+			"storeType": "STORE",
+			"todaysHrsOfOperation": {
+				"daysShort": "Fri",
+				"hours": "20:00",
+				"isOpen": true
+			},
+			"uom": null
+		},
+		{
+			"addLine1": "unit 8A St Pancras, St Pancras Station, Euston Road",
+			"addLine2": null,
+			"city": "",
+			"country": "GB",
+			"departments": [
+				"WOMEN",
+				"MEN"
+			],
+			"distance": 0,
+			"hrsOfOperation": [
+				{
+					"daysShort": "Mon-Fri",
+					"hours": "07:30-21:00",
+					"isOpen": false
+				},
+				{
+					"daysShort": "Sat",
+					"hours": "09:00-21:00",
+					"isOpen": false
+				},
+				{
+					"daysShort": "Sun",
+					"hours": "09:30-18:00",
+					"isOpen": false
+				}
+			],
+			"latitude": 51.531821,
+			"longitude": -0.126731,
+			"mapUrl": null,
+			"ors": false,
+			"phone": "+44 02033 706 268",
+			"postcode": "N1C 4QP",
+			"state": null,
+			"storeId": "8799602313208",
+			"storeName": "Levi's® London St. Pancras",
+			"storeType": "STORE",
+			"todaysHrsOfOperation": {
+				"daysShort": "Fri",
+				"hours": "21:00",
+				"isOpen": true
+			},
+			"uom": null
+		},
+		{
+			"addLine1": "Unit G-027 Level Ground, Battersea",
+			"addLine2": null,
+			"city": "",
+			"country": "GB",
+			"departments": [],
+			"distance": 0,
+			"hrsOfOperation": [
+				{
+					"daysShort": "Mon-Fri",
+					"hours": "10:00-20:00",
+					"isOpen": false
+				},
+				{
+					"daysShort": "Sat",
+					"hours": "10:00-20:00",
+					"isOpen": false
+				},
+				{
+					"daysShort": "Sun",
+					"hours": "10:00-20:00",
+					"isOpen": false
+				}
+			],
+			"latitude": 51.481559,
+			"longitude": -0.144676,
+			"mapUrl": null,
+			"ors": false,
+			"phone": "",
+			"postcode": "SW8 5BN",
+			"state": null,
+			"storeId": "8799697537016",
+			"storeName": "LS Battersea",
+			"storeType": "STORE",
+			"todaysHrsOfOperation": {
+				"daysShort": "Fri",
+				"hours": "20:00",
+				"isOpen": true
+			},
+			"uom": null
+		}
+	]
+}
