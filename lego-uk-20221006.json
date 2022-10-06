@@ -1,0 +1,922 @@
+{
+	"stores": [
+		{
+			"storeId": "875",
+			"name": "LEGO® Store Edinburgh",
+			"phone": "(+44) 0131 374 7080",
+			"streetAddress": "St James Centre",
+			"city": "Edinburgh",
+			"state": null,
+			"postalCode": "EH1 3SR",
+			"storeUrl": "https://www.lego.com/stores/stores/gb/edinburgh",
+			"openingTimes": [
+				{
+					"day": "Monday",
+					"timeRange": "09:00-20:00",
+					"__typename": "OpeningTime"
+				},
+				{
+					"day": "Tuesday",
+					"timeRange": "09:00-20:00",
+					"__typename": "OpeningTime"
+				},
+				{
+					"day": "Wednesday",
+					"timeRange": "09:00-20:00",
+					"__typename": "OpeningTime"
+				},
+				{
+					"day": "Thursday",
+					"timeRange": "09:00-20:00",
+					"__typename": "OpeningTime"
+				},
+				{
+					"day": "Friday",
+					"timeRange": "09:00-20:00",
+					"__typename": "OpeningTime"
+				},
+				{
+					"day": "Saturday",
+					"timeRange": "09:00-20:00",
+					"__typename": "OpeningTime"
+				},
+				{
+					"day": "Sunday",
+					"timeRange": "10.00-18.00",
+					"__typename": "OpeningTime"
+				}
+			],
+			"urlKey": "edinburgh",
+			"coordinates": {
+				"lat": 55.95475827767508,
+				"lng": -3.188974452,
+				"__typename": "LatLng"
+			},
+			"__typename": "StoreInfo"
+		},
+		{
+			"storeId": "807",
+			"name": "LEGO® Store Glasgow",
+			"phone": "(+44) 0141 353 2386",
+			"streetAddress": "220 Buchanan Street",
+			"city": "Glasgow",
+			"state": null,
+			"postalCode": "G1 2FF",
+			"storeUrl": "https://www.lego.com/stores/stores/gb/glasgow",
+			"openingTimes": [
+				{
+					"day": "Monday",
+					"timeRange": "9:00 - 18:00",
+					"__typename": "OpeningTime"
+				},
+				{
+					"day": "Tuesday",
+					"timeRange": "9:00 - 18:00",
+					"__typename": "OpeningTime"
+				},
+				{
+					"day": "Wednesday",
+					"timeRange": "9:00 - 18:00",
+					"__typename": "OpeningTime"
+				},
+				{
+					"day": "Thursday",
+					"timeRange": "9:00 - 18:00",
+					"__typename": "OpeningTime"
+				},
+				{
+					"day": "Friday",
+					"timeRange": "9:00 - 18:00",
+					"__typename": "OpeningTime"
+				},
+				{
+					"day": "Saturday",
+					"timeRange": "9:00 - 18:00",
+					"__typename": "OpeningTime"
+				},
+				{
+					"day": "Sunday",
+					"timeRange": "10:00 - 18:00",
+					"__typename": "OpeningTime"
+				}
+			],
+			"urlKey": "glasgow",
+			"coordinates": {
+				"lat": 55.8637787,
+				"lng": -4.2516992,
+				"__typename": "LatLng"
+			},
+			"__typename": "StoreInfo"
+		},
+		{
+			"storeId": "823",
+			"name": "LEGO® Store Metrocentre Newcastle",
+			"phone": "(+44) 0191 460 9049",
+			"streetAddress": "Lower Red Mall, Metrocentre",
+			"city": "Gateshead",
+			"state": null,
+			"postalCode": "NE11 9YG",
+			"storeUrl": "https://www.lego.com/stores/stores/gb/metrocentre-newcastle",
+			"openingTimes": [
+				{
+					"day": "Monday",
+					"timeRange": "9.00- 21.00",
+					"__typename": "OpeningTime"
+				},
+				{
+					"day": "Tuesday",
+					"timeRange": "9.00- 21.00",
+					"__typename": "OpeningTime"
+				},
+				{
+					"day": "Wednesday",
+					"timeRange": "9.00- 21.00",
+					"__typename": "OpeningTime"
+				},
+				{
+					"day": "Thursday",
+					"timeRange": "9.00- 21.00",
+					"__typename": "OpeningTime"
+				},
+				{
+					"day": "Friday",
+					"timeRange": "9.00- 21.00",
+					"__typename": "OpeningTime"
+				},
+				{
+					"day": "Saturday",
+					"timeRange": "9.00- 19.00",
+					"__typename": "OpeningTime"
+				},
+				{
+					"day": "Sunday",
+					"timeRange": "11:00 -17:00",
+					"__typename": "OpeningTime"
+				}
+			],
+			"urlKey": "metrocentre-newcastle",
+			"coordinates": {
+				"lat": 54.9576787,
+				"lng": -1.6684888,
+				"__typename": "LatLng"
+			},
+			"__typename": "StoreInfo"
+		},
+		{
+			"storeId": "811",
+			"name": "LEGO® Store Leeds",
+			"phone": "(+44) 0113 234 0841",
+			"streetAddress": "311, Trinity Leeds, Albion Street",
+			"city": "Leeds",
+			"state": null,
+			"postalCode": "LS1 5AT",
+			"storeUrl": "https://www.lego.com/stores/stores/gb/leeds",
+			"openingTimes": [
+				{
+					"day": "Monday",
+					"timeRange": "9:00 - 20:00",
+					"__typename": "OpeningTime"
+				},
+				{
+					"day": "Tuesday",
+					"timeRange": "9:00 - 20:00",
+					"__typename": "OpeningTime"
+				},
+				{
+					"day": "Wednesday",
+					"timeRange": "9:00 - 20:00",
+					"__typename": "OpeningTime"
+				},
+				{
+					"day": "Thursday",
+					"timeRange": "9:00 - 20:00",
+					"__typename": "OpeningTime"
+				},
+				{
+					"day": "Friday",
+					"timeRange": "9:00 - 20:00",
+					"__typename": "OpeningTime"
+				},
+				{
+					"day": "Saturday",
+					"timeRange": "9:00 - 20:00",
+					"__typename": "OpeningTime"
+				},
+				{
+					"day": "Sunday",
+					"timeRange": "11:00 - 17:00",
+					"__typename": "OpeningTime"
+				}
+			],
+			"urlKey": "leeds",
+			"coordinates": {
+				"lat": 53.79744878082869,
+				"lng": -1.545165043,
+				"__typename": "LatLng"
+			},
+			"__typename": "StoreInfo"
+		},
+		{
+			"storeId": "727",
+			"name": "LEGO® Store Liverpool",
+			"phone": "(+44) 0151 708 6017",
+			"streetAddress": "50 South John Street",
+			"city": "Liverpool",
+			"state": null,
+			"postalCode": "L1 8BJ",
+			"storeUrl": "https://www.lego.com/stores/stores/gb/liverpool",
+			"openingTimes": [
+				{
+					"day": "Monday",
+					"timeRange": "10:00 - 20:00",
+					"__typename": "OpeningTime"
+				},
+				{
+					"day": "Tuesday",
+					"timeRange": "10:00 - 20:00",
+					"__typename": "OpeningTime"
+				},
+				{
+					"day": "Wednesday",
+					"timeRange": "10:00 - 20:00",
+					"__typename": "OpeningTime"
+				},
+				{
+					"day": "Thursday",
+					"timeRange": "10:00 - 20:00",
+					"__typename": "OpeningTime"
+				},
+				{
+					"day": "Friday",
+					"timeRange": "10:00 - 20:00",
+					"__typename": "OpeningTime"
+				},
+				{
+					"day": "Saturday",
+					"timeRange": "10:00 - 19:00",
+					"__typename": "OpeningTime"
+				},
+				{
+					"day": "Sunday",
+					"timeRange": "11:00 - 17:00",
+					"__typename": "OpeningTime"
+				}
+			],
+			"urlKey": "liverpool",
+			"coordinates": {
+				"lat": 53.40409,
+				"lng": -2.98769,
+				"__typename": "LatLng"
+			},
+			"__typename": "StoreInfo"
+		},
+		{
+			"storeId": "788",
+			"name": "LEGO® Store Manchester",
+			"phone": "(+44) 0161 819 2272",
+			"streetAddress": "Arndale Shopping Centre",
+			"city": "Manchester",
+			"state": null,
+			"postalCode": "M4 3AQ",
+			"storeUrl": "https://www.lego.com/stores/stores/gb/manchester",
+			"openingTimes": [
+				{
+					"day": "Monday",
+					"timeRange": "9:00-20:00",
+					"__typename": "OpeningTime"
+				},
+				{
+					"day": "Tuesday",
+					"timeRange": "9:00-20:00",
+					"__typename": "OpeningTime"
+				},
+				{
+					"day": "Wednesday",
+					"timeRange": "9:00-20:00",
+					"__typename": "OpeningTime"
+				},
+				{
+					"day": "Thursday",
+					"timeRange": "9:00-20:00",
+					"__typename": "OpeningTime"
+				},
+				{
+					"day": "Friday",
+					"timeRange": "9:00-20:00",
+					"__typename": "OpeningTime"
+				},
+				{
+					"day": "Saturday",
+					"timeRange": "9:00-19:00",
+					"__typename": "OpeningTime"
+				},
+				{
+					"day": "Sunday",
+					"timeRange": "11:30-17:30",
+					"__typename": "OpeningTime"
+				}
+			],
+			"urlKey": "manchester",
+			"coordinates": {
+				"lat": 53.48377662,
+				"lng": -2.241209103,
+				"__typename": "LatLng"
+			},
+			"__typename": "StoreInfo"
+		},
+		{
+			"storeId": "789",
+			"name": "LEGO® Store Sheffield",
+			"phone": "(+44) 0114 256 8470",
+			"streetAddress": "Meadowhall Shopping Centre, 26a High Street",
+			"city": "Sheffield",
+			"state": null,
+			"postalCode": "S9 1EN",
+			"storeUrl": "https://www.lego.com/stores/stores/gb/sheffield",
+			"openingTimes": [
+				{
+					"day": "Monday",
+					"timeRange": "10:00-21:00",
+					"__typename": "OpeningTime"
+				},
+				{
+					"day": "Tuesday",
+					"timeRange": "10:00-21:00",
+					"__typename": "OpeningTime"
+				},
+				{
+					"day": "Wednesday",
+					"timeRange": "10:00-21:00",
+					"__typename": "OpeningTime"
+				},
+				{
+					"day": "Thursday",
+					"timeRange": "10:00-21:00",
+					"__typename": "OpeningTime"
+				},
+				{
+					"day": "Friday",
+					"timeRange": "10:00-21:00",
+					"__typename": "OpeningTime"
+				},
+				{
+					"day": "Saturday",
+					"timeRange": "9:00-20:00",
+					"__typename": "OpeningTime"
+				},
+				{
+					"day": "Sunday",
+					"timeRange": "11:00-17:00",
+					"__typename": "OpeningTime"
+				}
+			],
+			"urlKey": "sheffield",
+			"coordinates": {
+				"lat": 53.41477977,
+				"lng": -1.410291166,
+				"__typename": "LatLng"
+			},
+			"__typename": "StoreInfo"
+		},
+		{
+			"storeId": "864",
+			"name": "LEGO® Store Birmingham",
+			"phone": "(+44) 0121 634 3942",
+			"streetAddress": "Bullring Shopping Centre",
+			"city": "Birmingham",
+			"state": null,
+			"postalCode": "B5 4BU",
+			"storeUrl": "https://www.lego.com/stores/stores/gb/birmingham",
+			"openingTimes": [
+				{
+					"day": "Monday",
+					"timeRange": "10:00-20:00",
+					"__typename": "OpeningTime"
+				},
+				{
+					"day": "Tuesday",
+					"timeRange": "10:00-20:00",
+					"__typename": "OpeningTime"
+				},
+				{
+					"day": "Wednesday",
+					"timeRange": "10:00-20:00",
+					"__typename": "OpeningTime"
+				},
+				{
+					"day": "Thursday",
+					"timeRange": "10:00-20:00",
+					"__typename": "OpeningTime"
+				},
+				{
+					"day": "Friday",
+					"timeRange": "10:00-20:00",
+					"__typename": "OpeningTime"
+				},
+				{
+					"day": "Saturday",
+					"timeRange": "9:00-20:00",
+					"__typename": "OpeningTime"
+				},
+				{
+					"day": "Sunday",
+					"timeRange": "11:00 - 17:00",
+					"__typename": "OpeningTime"
+				}
+			],
+			"urlKey": "birmingham",
+			"coordinates": {
+				"lat": 52.47698,
+				"lng": -1.89498,
+				"__typename": "LatLng"
+			},
+			"__typename": "StoreInfo"
+		},
+		{
+			"storeId": "736",
+			"name": "LEGO® Store Milton Keynes",
+			"phone": "(+44) 019 0823 4960",
+			"streetAddress": "33 Midsummer Place",
+			"city": "Milton Keynes",
+			"state": null,
+			"postalCode": "MK9 3GB",
+			"storeUrl": "https://www.lego.com/stores/stores/gb/milton-keynes",
+			"openingTimes": [
+				{
+					"day": "Monday",
+					"timeRange": "9.30 – 18.00",
+					"__typename": "OpeningTime"
+				},
+				{
+					"day": "Tuesday",
+					"timeRange": "9.30 – 18.00",
+					"__typename": "OpeningTime"
+				},
+				{
+					"day": "Wednesday",
+					"timeRange": "9.30 – 18.00",
+					"__typename": "OpeningTime"
+				},
+				{
+					"day": "Thursday",
+					"timeRange": "9.30 – 20.00",
+					"__typename": "OpeningTime"
+				},
+				{
+					"day": "Friday",
+					"timeRange": "9.30 – 20.00",
+					"__typename": "OpeningTime"
+				},
+				{
+					"day": "Saturday",
+					"timeRange": "9.00 – 19.00",
+					"__typename": "OpeningTime"
+				},
+				{
+					"day": "Sunday",
+					"timeRange": "11.00 – 17.00",
+					"__typename": "OpeningTime"
+				}
+			],
+			"urlKey": "milton-keynes",
+			"coordinates": {
+				"lat": 52.0409875,
+				"lng": -0.7572101,
+				"__typename": "LatLng"
+			},
+			"__typename": "StoreInfo"
+		},
+		{
+			"storeId": "772",
+			"name": "LEGO® Store Cardiff",
+			"phone": "(+44) 029 2034 2177",
+			"streetAddress": "St David's Dewi Sant Cardiff",
+			"city": "Cardiff",
+			"state": null,
+			"postalCode": "CF10 2ER",
+			"storeUrl": "https://www.lego.com/stores/stores/gb/cardiff",
+			"openingTimes": [
+				{
+					"day": "Monday",
+					"timeRange": "9:30 -20:00",
+					"__typename": "OpeningTime"
+				},
+				{
+					"day": "Tuesday",
+					"timeRange": "9:30 -20:00",
+					"__typename": "OpeningTime"
+				},
+				{
+					"day": "Wednesday",
+					"timeRange": "9:30 -20:00",
+					"__typename": "OpeningTime"
+				},
+				{
+					"day": "Thursday",
+					"timeRange": "9:30 -20:00",
+					"__typename": "OpeningTime"
+				},
+				{
+					"day": "Friday",
+					"timeRange": "9:30 -20:00",
+					"__typename": "OpeningTime"
+				},
+				{
+					"day": "Saturday",
+					"timeRange": "9:30 -19:00",
+					"__typename": "OpeningTime"
+				},
+				{
+					"day": "Sunday",
+					"timeRange": "11:00 - 17:00",
+					"__typename": "OpeningTime"
+				}
+			],
+			"urlKey": "cardiff",
+			"coordinates": {
+				"lat": 51.47946602,
+				"lng": -3.174912396,
+				"__typename": "LatLng"
+			},
+			"__typename": "StoreInfo"
+		},
+		{
+			"storeId": "867",
+			"name": "LEGO® Store Bristol",
+			"phone": "+44 0117 927 7365",
+			"streetAddress": "Cabot Circus, Glass House",
+			"city": "Bristol",
+			"state": null,
+			"postalCode": "BS1 3BX",
+			"storeUrl": "https://www.lego.com/en-gb/stores/store?store=bristol",
+			"openingTimes": [
+				{
+					"day": "Monday",
+					"timeRange": "10:00-20:00",
+					"__typename": "OpeningTime"
+				},
+				{
+					"day": "Tuesday",
+					"timeRange": "10.00-20.00",
+					"__typename": "OpeningTime"
+				},
+				{
+					"day": "Wednesday",
+					"timeRange": "10.00-20.00",
+					"__typename": "OpeningTime"
+				},
+				{
+					"day": "Thursday",
+					"timeRange": "10.00-20.00",
+					"__typename": "OpeningTime"
+				},
+				{
+					"day": "Friday",
+					"timeRange": "10.00-20.00",
+					"__typename": "OpeningTime"
+				},
+				{
+					"day": "Saturday",
+					"timeRange": "10.00-20.00",
+					"__typename": "OpeningTime"
+				},
+				{
+					"day": "Sunday",
+					"timeRange": "11.00 -17.00",
+					"__typename": "OpeningTime"
+				}
+			],
+			"urlKey": "bristol",
+			"coordinates": {
+				"lat": 51.458523,
+				"lng": -2.584515,
+				"__typename": "LatLng"
+			},
+			"__typename": "StoreInfo"
+		},
+		{
+			"storeId": "773",
+			"name": "LEGO® Store London Westfield",
+			"phone": "(+44) 020 8749 1059",
+			"streetAddress": "1081 Ariel Way",
+			"city": "London",
+			"state": null,
+			"postalCode": "W12 7GF",
+			"storeUrl": "https://www.lego.com/stores/stores/gb/london-westfield",
+			"openingTimes": [
+				{
+					"day": "Monday",
+					"timeRange": "10:00-21:00",
+					"__typename": "OpeningTime"
+				},
+				{
+					"day": "Tuesday",
+					"timeRange": "10:00-21:00",
+					"__typename": "OpeningTime"
+				},
+				{
+					"day": "Wednesday",
+					"timeRange": "10:00-21:00",
+					"__typename": "OpeningTime"
+				},
+				{
+					"day": "Thursday",
+					"timeRange": "10:00-21:00",
+					"__typename": "OpeningTime"
+				},
+				{
+					"day": "Friday",
+					"timeRange": "10:00-21:00",
+					"__typename": "OpeningTime"
+				},
+				{
+					"day": "Saturday",
+					"timeRange": "10:00-21:00",
+					"__typename": "OpeningTime"
+				},
+				{
+					"day": "Sunday",
+					"timeRange": "12:00 - 18:00",
+					"__typename": "OpeningTime"
+				}
+			],
+			"urlKey": "london-westfield",
+			"coordinates": {
+				"lat": 51.50701934,
+				"lng": -0.223240436,
+				"__typename": "LatLng"
+			},
+			"__typename": "StoreInfo"
+		},
+		{
+			"storeId": "838",
+			"name": "LEGO® Store Leicester Square",
+			"phone": "(+44) 020 7839 3480",
+			"streetAddress": "3 Swiss Court",
+			"city": "London",
+			"state": null,
+			"postalCode": "W1D 6AP",
+			"storeUrl": "https://www.lego.com/stores/stores/gb/london-leicester-square",
+			"openingTimes": [
+				{
+					"day": "Monday",
+					"timeRange": "10.00 – 22:00",
+					"__typename": "OpeningTime"
+				},
+				{
+					"day": "Tuesday",
+					"timeRange": "10.00 – 22:00",
+					"__typename": "OpeningTime"
+				},
+				{
+					"day": "Wednesday",
+					"timeRange": "10.00 – 22:00",
+					"__typename": "OpeningTime"
+				},
+				{
+					"day": "Thursday",
+					"timeRange": "10.00 – 22:00",
+					"__typename": "OpeningTime"
+				},
+				{
+					"day": "Friday",
+					"timeRange": "10.00 – 22:00",
+					"__typename": "OpeningTime"
+				},
+				{
+					"day": "Saturday",
+					"timeRange": "10.00 – 22:00",
+					"__typename": "OpeningTime"
+				},
+				{
+					"day": "Sunday",
+					"timeRange": "12:00 – 18:00",
+					"__typename": "OpeningTime"
+				}
+			],
+			"urlKey": "london-leicester-square",
+			"coordinates": {
+				"lat": 51.51042643,
+				"lng": -0.130933794,
+				"__typename": "LatLng"
+			},
+			"__typename": "StoreInfo"
+		},
+		{
+			"storeId": "775",
+			"name": "LEGO® Store Westfield Stratford",
+			"phone": "(+44) 020 8519 3539",
+			"streetAddress": "Lower Ground Floor, 66 The Arcade, Westfield Stratford City",
+			"city": "London",
+			"state": null,
+			"postalCode": "E20 1EH",
+			"storeUrl": "https://www.lego.com/stores/stores/gb/london-stratford",
+			"openingTimes": [
+				{
+					"day": "Monday",
+					"timeRange": "10:00 - 21:00",
+					"__typename": "OpeningTime"
+				},
+				{
+					"day": "Tuesday",
+					"timeRange": "10:00 - 21:00",
+					"__typename": "OpeningTime"
+				},
+				{
+					"day": "Wednesday",
+					"timeRange": "10:00 - 21:00",
+					"__typename": "OpeningTime"
+				},
+				{
+					"day": "Thursday",
+					"timeRange": "10:00 - 21:00",
+					"__typename": "OpeningTime"
+				},
+				{
+					"day": "Friday",
+					"timeRange": "10:00 - 21:00",
+					"__typename": "OpeningTime"
+				},
+				{
+					"day": "Saturday",
+					"timeRange": "9:00 - 21:00",
+					"__typename": "OpeningTime"
+				},
+				{
+					"day": "Sunday",
+					"timeRange": "12:00 - 18:00",
+					"__typename": "OpeningTime"
+				}
+			],
+			"urlKey": "london-stratford",
+			"coordinates": {
+				"lat": 51.54377,
+				"lng": -0.00771,
+				"__typename": "LatLng"
+			},
+			"__typename": "StoreInfo"
+		},
+		{
+			"storeId": "735",
+			"name": "LEGO® Store Bluewater",
+			"phone": "(+44) 013 2242 7272",
+			"streetAddress": "Unit 90, Upper Thames Walk",
+			"city": "Greenhithe",
+			"state": null,
+			"postalCode": "DA9 9SR",
+			"storeUrl": "https://www.lego.com/stores/stores/gb/bluewater",
+			"openingTimes": [
+				{
+					"day": "Monday",
+					"timeRange": "10:00 - 21:00",
+					"__typename": "OpeningTime"
+				},
+				{
+					"day": "Tuesday",
+					"timeRange": "10:00 - 21:00",
+					"__typename": "OpeningTime"
+				},
+				{
+					"day": "Wednesday",
+					"timeRange": "10:00 - 21:00",
+					"__typename": "OpeningTime"
+				},
+				{
+					"day": "Thursday",
+					"timeRange": "10:00 - 21:00",
+					"__typename": "OpeningTime"
+				},
+				{
+					"day": "Friday",
+					"timeRange": "10:00 - 21:00",
+					"__typename": "OpeningTime"
+				},
+				{
+					"day": "Saturday",
+					"timeRange": "9:00 – 21:00",
+					"__typename": "OpeningTime"
+				},
+				{
+					"day": "Sunday",
+					"timeRange": "11:00 – 17:00",
+					"__typename": "OpeningTime"
+				}
+			],
+			"urlKey": "bluewater",
+			"coordinates": {
+				"lat": 51.439163,
+				"lng": 0.270177,
+				"__typename": "LatLng"
+			},
+			"__typename": "StoreInfo"
+		},
+		{
+			"storeId": "863",
+			"name": "LEGO® Store Southampton",
+			"phone": "(+44) 023 8033 7762",
+			"streetAddress": "West Quay Shopping Centre, 8-10 Portland Terrace",
+			"city": "Southhampton",
+			"state": null,
+			"postalCode": "SO15 1QF",
+			"storeUrl": "https://www.lego.com/stores/stores/gb/brighton",
+			"openingTimes": [
+				{
+					"day": "Monday",
+					"timeRange": "9:00 - 20:00",
+					"__typename": "OpeningTime"
+				},
+				{
+					"day": "Tuesday",
+					"timeRange": "9:00 - 20:00",
+					"__typename": "OpeningTime"
+				},
+				{
+					"day": "Wednesday",
+					"timeRange": "9:00 - 20:00",
+					"__typename": "OpeningTime"
+				},
+				{
+					"day": "Thursday",
+					"timeRange": "9:00 - 20:00",
+					"__typename": "OpeningTime"
+				},
+				{
+					"day": "Friday",
+					"timeRange": "9:00 - 20:00",
+					"__typename": "OpeningTime"
+				},
+				{
+					"day": "Saturday",
+					"timeRange": "9:00 - 19:00",
+					"__typename": "OpeningTime"
+				},
+				{
+					"day": "Sunday",
+					"timeRange": "11:00 - 17:00",
+					"__typename": "OpeningTime"
+				}
+			],
+			"urlKey": "southampton-west-quay",
+			"coordinates": {
+				"lat": 50.9041446,
+				"lng": -1.4051426,
+				"__typename": "LatLng"
+			},
+			"__typename": "StoreInfo"
+		},
+		{
+			"storeId": "732",
+			"name": "LEGO® Store Brighton",
+			"phone": "(+44) 012 7377 2670",
+			"streetAddress": "Churchill Square, Russell Place",
+			"city": "Brighton",
+			"state": null,
+			"postalCode": "BN1 2TF",
+			"storeUrl": "https://www.lego.com/stores/stores/gb/brighton",
+			"openingTimes": [
+				{
+					"day": "Monday",
+					"timeRange": "9:00 - 18:00",
+					"__typename": "OpeningTime"
+				},
+				{
+					"day": "Tuesday",
+					"timeRange": "9:00 - 18:00",
+					"__typename": "OpeningTime"
+				},
+				{
+					"day": "Wednesday",
+					"timeRange": "9:00 - 18:00",
+					"__typename": "OpeningTime"
+				},
+				{
+					"day": "Thursday",
+					"timeRange": "9:00 - 19:00",
+					"__typename": "OpeningTime"
+				},
+				{
+					"day": "Friday",
+					"timeRange": "9:00 - 19:00",
+					"__typename": "OpeningTime"
+				},
+				{
+					"day": "Saturday",
+					"timeRange": "9:00 - 19:00",
+					"__typename": "OpeningTime"
+				},
+				{
+					"day": "Sunday",
+					"timeRange": "11:00 - 17:00",
+					"__typename": "OpeningTime"
+				}
+			],
+			"urlKey": "brighton",
+			"coordinates": {
+				"lat": 50.82286014,
+				"lng": -0.146016429,
+				"__typename": "LatLng"
+			},
+			"__typename": "StoreInfo"
+		}
+	]
+}
