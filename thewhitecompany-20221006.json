@@ -592,8 +592,7 @@
                 "ewalletAddress": false
             },
             "storeImages": [],
-            "displayDescription": "<p>Our store in Brent Cross Shopping Centre, London is home to a range of our beautiful current collections. Take the opportunity to see, feel and smell some of our products before treating yourself, your home or a loved one to something special.</p>\\n<p>The White Company Stylists</p>\\n<p>We know you&#39;re short of time and, sometimes, you just can&#39;t beat an edited choice, which is why we&#39;re delighted to offer our styling service with our expert stylists.</p>\\n<p>To find out more and book your free personalised one-to-one appointment, ask in store or email us at: <a href=\\"
-            mailto: brentcrossstylist @thewhitecompany.com\\ ">brentcrossstylist@thewhitecompany.com</a></p>\\n<p>Whether you want to update your weekend wardrobe, refresh your everyday look or find the perfect outfit for a special occasion, our clothing stylists will help you with all your styling needs.</p>\\n<p>&nbsp;</p>",
+            "displayDescription": "",
             "nearestStations": ["Hendon Central", "Brent Cross"],
             "specialOpeningSchedule": {
                 "name": "Brent Cross Opening Times",
@@ -7058,7 +7057,7 @@
                 "ewalletAddress": false
             },
             "storeImages": [],
-            "displayDescription": "<p>This store has now closed, but you can still visit us in selected <strong><a href=\\" / our - stores\\ ">Nordstrom stores</a></strong>.</p>",
+            "displayDescription": "",
             "nearestStations": [],
             "contactSectionEnabled": false
         }, {
