@@ -1,0 +1,1257 @@
+{
+    "ResultData": [{
+        "LocationId": {
+            "StoreNumber": 46750,
+            "SatelliteNumber": 0
+        },
+        "Address": {
+            "Address1": "opposite of Manar Mall",
+            "Address2": "",
+            "Address3": "Adnoc Station No. 822",
+            "City": "Ras Al Khaimah",
+            "StateProvCode": "",
+            "PostalCode": "",
+            "CountryCode": "AE",
+            "CountryCode3": "ARE"
+        },
+        "Geo": {
+            "Latitude": 25.7886,
+            "Longitude": 55.9645,
+            "TimeZoneId": "Asia/Dubai",
+            "CurrentUtcOffset": 0
+        },
+        "ListingNumber": 1,
+        "OrderingUrl": null,
+        "CateringUrl": null,
+        "ExtendedProperties": null
+    }, {
+        "LocationId": {
+            "StoreNumber": 50347,
+            "SatelliteNumber": 0
+        },
+        "Address": {
+            "Address1": "Al Nahdah Street",
+            "Address2": "Opposite RAK Labor Office",
+            "Address3": "Ground Floor",
+            "City": "Ras Al Khaimah",
+            "StateProvCode": "",
+            "PostalCode": "489",
+            "CountryCode": "AE",
+            "CountryCode3": "ARE"
+        },
+        "Geo": {
+            "Latitude": 25.7784,
+            "Longitude": 55.9356,
+            "TimeZoneId": "Asia/Dubai",
+            "CurrentUtcOffset": 0
+        },
+        "ListingNumber": 2,
+        "OrderingUrl": null,
+        "CateringUrl": null,
+        "ExtendedProperties": null
+    }, {
+        "LocationId": {
+            "StoreNumber": 55898,
+            "SatelliteNumber": 0
+        },
+        "Address": {
+            "Address1": "Bin Majod Road",
+            "Address2": "near to Al Safeer Mall",
+            "Address3": "ADNOC - Bin Majed Petrol Stati",
+            "City": "Ras Al Khaimah",
+            "StateProvCode": "",
+            "PostalCode": "4188",
+            "CountryCode": "AE",
+            "CountryCode3": "ARE"
+        },
+        "Geo": {
+            "Latitude": 25.7431,
+            "Longitude": 55.9339,
+            "TimeZoneId": "Asia/Dubai",
+            "CurrentUtcOffset": 0
+        },
+        "ListingNumber": 3,
+        "OrderingUrl": null,
+        "CateringUrl": null,
+        "ExtendedProperties": null
+    }, {
+        "LocationId": {
+            "StoreNumber": 72187,
+            "SatelliteNumber": 0
+        },
+        "Address": {
+            "Address1": "Al Dhait",
+            "Address2": "",
+            "Address3": "My City Center",
+            "City": "Ras Al Khaimah",
+            "StateProvCode": "",
+            "PostalCode": "",
+            "CountryCode": "AE",
+            "CountryCode3": "ARE"
+        },
+        "Geo": {
+            "Latitude": 25.7284,
+            "Longitude": 55.9303,
+            "TimeZoneId": "Asia/Dubai",
+            "CurrentUtcOffset": 0
+        },
+        "ListingNumber": 4,
+        "OrderingUrl": null,
+        "CateringUrl": null,
+        "ExtendedProperties": null
+    }, {
+        "LocationId": {
+            "StoreNumber": 57327,
+            "SatelliteNumber": 0
+        },
+        "Address": {
+            "Address1": "along Shk Mohd Bin Zayed Road",
+            "Address2": "Service Station #798",
+            "Address3": "ADNOC Gas Station/C-Store",
+            "City": "Umm Al Quain",
+            "StateProvCode": "",
+            "PostalCode": "27888",
+            "CountryCode": "AE",
+            "CountryCode3": "ARE"
+        },
+        "Geo": {
+            "Latitude": 25.5024,
+            "Longitude": 55.695,
+            "TimeZoneId": "Asia/Dubai",
+            "CurrentUtcOffset": 0
+        },
+        "ListingNumber": 5,
+        "OrderingUrl": null,
+        "CateringUrl": null,
+        "ExtendedProperties": null
+    }, {
+        "LocationId": {
+            "StoreNumber": 46179,
+            "SatelliteNumber": 0
+        },
+        "Address": {
+            "Address1": "King Faisal Street",
+            "Address2": "Shop 6, Plot No. 3 & 4",
+            "Address3": "Al Rawda Area",
+            "City": "Umm Al Quain",
+            "StateProvCode": "",
+            "PostalCode": "3330",
+            "CountryCode": "AE",
+            "CountryCode3": "ARE"
+        },
+        "Geo": {
+            "Latitude": 25.5723,
+            "Longitude": 55.5578,
+            "TimeZoneId": "Asia/Dubai",
+            "CurrentUtcOffset": 0
+        },
+        "ListingNumber": 6,
+        "OrderingUrl": null,
+        "CateringUrl": null,
+        "ExtendedProperties": null
+    }, {
+        "LocationId": {
+            "StoreNumber": 49092,
+            "SatelliteNumber": 0
+        },
+        "Address": {
+            "Address1": "Dagna Road, Al Iqqa",
+            "Address2": "opposite side of Rotana Hotel",
+            "Address3": "Adnoc Station No. 785",
+            "City": "Fujairah",
+            "StateProvCode": "",
+            "PostalCode": "27888",
+            "CountryCode": "AE",
+            "CountryCode3": "ARE"
+        },
+        "Geo": {
+            "Latitude": 25.5106,
+            "Longitude": 56.362,
+            "TimeZoneId": "Asia/Dubai",
+            "CurrentUtcOffset": 0
+        },
+        "ListingNumber": 7,
+        "OrderingUrl": null,
+        "CateringUrl": null,
+        "ExtendedProperties": null
+    }, {
+        "LocationId": {
+            "StoreNumber": 46221,
+            "SatelliteNumber": 0
+        },
+        "Address": {
+            "Address1": "Ahmed Bin Hanbel Street",
+            "Address2": "J2 Bldg, 1st Floor",
+            "Address3": "Ajman Univ of Science & Tech",
+            "City": "Ajman",
+            "StateProvCode": "",
+            "PostalCode": "",
+            "CountryCode": "AE",
+            "CountryCode3": "ARE"
+        },
+        "Geo": {
+            "Latitude": 25.4151,
+            "Longitude": 55.5045,
+            "TimeZoneId": "Asia/Dubai",
+            "CurrentUtcOffset": 0
+        },
+        "ListingNumber": 8,
+        "OrderingUrl": null,
+        "CateringUrl": null,
+        "ExtendedProperties": null
+    }, {
+        "LocationId": {
+            "StoreNumber": 71789,
+            "SatelliteNumber": 0
+        },
+        "Address": {
+            "Address1": "Ajman",
+            "Address2": "Ajman",
+            "Address3": "Ajman City Center",
+            "City": "Ajman",
+            "StateProvCode": "",
+            "PostalCode": "13306",
+            "CountryCode": "AE",
+            "CountryCode3": "ARE"
+        },
+        "Geo": {
+            "Latitude": 25.4052,
+            "Longitude": 55.5136,
+            "TimeZoneId": "Asia/Dubai",
+            "CurrentUtcOffset": 0
+        },
+        "ListingNumber": 9,
+        "OrderingUrl": null,
+        "CateringUrl": null,
+        "ExtendedProperties": null
+    }, {
+        "LocationId": {
+            "StoreNumber": 67298,
+            "SatelliteNumber": 0
+        },
+        "Address": {
+            "Address1": "al hamidiya 1 street",
+            "Address2": "shop 1",
+            "Address3": "Shk. Maktoum Bin Rashed",
+            "City": "Ajman",
+            "StateProvCode": "",
+            "PostalCode": "8887",
+            "CountryCode": "AE",
+            "CountryCode3": "ARE"
+        },
+        "Geo": {
+            "Latitude": 25.3966,
+            "Longitude": 55.5218,
+            "TimeZoneId": "Asia/Dubai",
+            "CurrentUtcOffset": 0
+        },
+        "ListingNumber": 10,
+        "OrderingUrl": null,
+        "CateringUrl": null,
+        "ExtendedProperties": null
+    }, {
+        "LocationId": {
+            "StoreNumber": 23567,
+            "SatelliteNumber": 0
+        },
+        "Address": {
+            "Address1": "Al Qasidiya, Sheikh Khalid Str",
+            "Address2": "Sharjah",
+            "Address3": "Epco Petrol Station",
+            "City": "Khorfakkan",
+            "StateProvCode": "",
+            "PostalCode": "",
+            "CountryCode": "AE",
+            "CountryCode3": "ARE"
+        },
+        "Geo": {
+            "Latitude": 25.3253,
+            "Longitude": 56.3436,
+            "TimeZoneId": "Asia/Dubai",
+            "CurrentUtcOffset": 0
+        },
+        "ListingNumber": 11,
+        "OrderingUrl": null,
+        "CateringUrl": null,
+        "ExtendedProperties": null
+    }, {
+        "LocationId": {
+            "StoreNumber": 46669,
+            "SatelliteNumber": 0
+        },
+        "Address": {
+            "Address1": "Etihad St. Block 324, plot 3.",
+            "Address2": "Al Jurf",
+            "Address3": "Musheraf",
+            "City": "Ajman",
+            "StateProvCode": "",
+            "PostalCode": "4444",
+            "CountryCode": "AE",
+            "CountryCode3": "ARE"
+        },
+        "Geo": {
+            "Latitude": 25.4179,
+            "Longitude": 55.4878,
+            "TimeZoneId": "Asia/Dubai",
+            "CurrentUtcOffset": 0
+        },
+        "ListingNumber": 12,
+        "OrderingUrl": null,
+        "CateringUrl": null,
+        "ExtendedProperties": null
+    }, {
+        "LocationId": {
+            "StoreNumber": 55173,
+            "SatelliteNumber": 0
+        },
+        "Address": {
+            "Address1": "Sheikh Ama'ar Str, Al Zahra",
+            "Address2": "Shop No. 9 and 10",
+            "Address3": "First Party Building",
+            "City": "Ajman",
+            "StateProvCode": "",
+            "PostalCode": "7383",
+            "CountryCode": "AE",
+            "CountryCode3": "ARE"
+        },
+        "Geo": {
+            "Latitude": 25.3893,
+            "Longitude": 55.506,
+            "TimeZoneId": "Asia/Dubai",
+            "CurrentUtcOffset": 0
+        },
+        "ListingNumber": 13,
+        "OrderingUrl": null,
+        "CateringUrl": null,
+        "ExtendedProperties": null
+    }, {
+        "LocationId": {
+            "StoreNumber": 72189,
+            "SatelliteNumber": 0
+        },
+        "Address": {
+            "Address1": "Al Dhaid Road",
+            "Address2": "Souq Shariat",
+            "Address3": "Al Dhaid",
+            "City": "Sharjah",
+            "StateProvCode": "",
+            "PostalCode": "",
+            "CountryCode": "AE",
+            "CountryCode3": "ARE"
+        },
+        "Geo": {
+            "Latitude": 25.3061,
+            "Longitude": 55.5845,
+            "TimeZoneId": "Asia/Dubai",
+            "CurrentUtcOffset": 0
+        },
+        "ListingNumber": 14,
+        "OrderingUrl": null,
+        "CateringUrl": null,
+        "ExtendedProperties": null
+    }, {
+        "LocationId": {
+            "StoreNumber": 57328,
+            "SatelliteNumber": 0
+        },
+        "Address": {
+            "Address1": "Near Sheikh Ammar Bridge",
+            "Address2": "Service Station 797",
+            "Address3": "ADNOC Gas Station/C-Store",
+            "City": "Abu Dhabi",
+            "StateProvCode": "",
+            "PostalCode": "4188",
+            "CountryCode": "AE",
+            "CountryCode3": "ARE"
+        },
+        "Geo": {
+            "Latitude": 25.358,
+            "Longitude": 55.5011,
+            "TimeZoneId": "Asia/Dubai",
+            "CurrentUtcOffset": 0
+        },
+        "ListingNumber": 15,
+        "OrderingUrl": null,
+        "CateringUrl": null,
+        "ExtendedProperties": null
+    }, {
+        "LocationId": {
+            "StoreNumber": 63373,
+            "SatelliteNumber": 1
+        },
+        "Address": {
+            "Address1": "Sharjah International Airport",
+            "Address2": "Departure Passenger Terminal",
+            "Address3": "Sharjah International Airport",
+            "City": "Sharjah",
+            "StateProvCode": "",
+            "PostalCode": "8",
+            "CountryCode": "AE",
+            "CountryCode3": "ARE"
+        },
+        "Geo": {
+            "Latitude": 25.3216,
+            "Longitude": 55.5203,
+            "TimeZoneId": "Asia/Dubai",
+            "CurrentUtcOffset": 0
+        },
+        "ListingNumber": 16,
+        "OrderingUrl": null,
+        "CateringUrl": null,
+        "ExtendedProperties": null
+    }, {
+        "LocationId": {
+            "StoreNumber": 63373,
+            "SatelliteNumber": 0
+        },
+        "Address": {
+            "Address1": "Sharjah Intl Airport",
+            "Address2": "Food court",
+            "Address3": "Sharjah Intl Airport",
+            "City": "Sharjah",
+            "StateProvCode": "",
+            "PostalCode": "31633",
+            "CountryCode": "AE",
+            "CountryCode3": "ARE"
+        },
+        "Geo": {
+            "Latitude": 25.3269,
+            "Longitude": 55.5122,
+            "TimeZoneId": "Asia/Dubai",
+            "CurrentUtcOffset": 0
+        },
+        "ListingNumber": 17,
+        "OrderingUrl": null,
+        "CateringUrl": null,
+        "ExtendedProperties": null
+    }, {
+        "LocationId": {
+            "StoreNumber": 52394,
+            "SatelliteNumber": 0
+        },
+        "Address": {
+            "Address1": "Shop No. 10",
+            "Address2": "Al Rumaila Area",
+            "Address3": "Corniche Ajman Tower, Block 4",
+            "City": "Ajman",
+            "StateProvCode": "",
+            "PostalCode": "980",
+            "CountryCode": "AE",
+            "CountryCode3": "ARE"
+        },
+        "Geo": {
+            "Latitude": 25.404,
+            "Longitude": 55.4296,
+            "TimeZoneId": "Asia/Dubai",
+            "CurrentUtcOffset": 0
+        },
+        "ListingNumber": 18,
+        "OrderingUrl": null,
+        "CateringUrl": null,
+        "ExtendedProperties": null
+    }, {
+        "LocationId": {
+            "StoreNumber": 46670,
+            "SatelliteNumber": 0
+        },
+        "Address": {
+            "Address1": "Emirates Road Tasjeel",
+            "Address2": "",
+            "Address3": "Adnoc  Petrol Station",
+            "City": "Sharjah",
+            "StateProvCode": "",
+            "PostalCode": "9400",
+            "CountryCode": "AE",
+            "CountryCode3": "ARE"
+        },
+        "Geo": {
+            "Latitude": 25.3458,
+            "Longitude": 55.4748,
+            "TimeZoneId": "Asia/Dubai",
+            "CurrentUtcOffset": 0
+        },
+        "ListingNumber": 19,
+        "OrderingUrl": null,
+        "CateringUrl": null,
+        "ExtendedProperties": null
+    }, {
+        "LocationId": {
+            "StoreNumber": 44314,
+            "SatelliteNumber": 0
+        },
+        "Address": {
+            "Address1": "Architecture Building 2",
+            "Address2": "Ground Floor",
+            "Address3": "American University Of Sharjah",
+            "City": "Sharjah",
+            "StateProvCode": "",
+            "PostalCode": "26666",
+            "CountryCode": "AE",
+            "CountryCode3": "ARE"
+        },
+        "Geo": {
+            "Latitude": 25.3099,
+            "Longitude": 55.4896,
+            "TimeZoneId": "Asia/Dubai",
+            "CurrentUtcOffset": 0
+        },
+        "ListingNumber": 20,
+        "OrderingUrl": null,
+        "CateringUrl": null,
+        "ExtendedProperties": null
+    }, {
+        "LocationId": {
+            "StoreNumber": 20566,
+            "SatelliteNumber": 0
+        },
+        "Address": {
+            "Address1": "Samnan Services Station",
+            "Address2": "University City Road",
+            "Address3": "Emarat Petrol Station",
+            "City": "Sharjah",
+            "StateProvCode": "",
+            "PostalCode": "",
+            "CountryCode": "AE",
+            "CountryCode3": "ARE"
+        },
+        "Geo": {
+            "Latitude": 25.3376,
+            "Longitude": 55.4162,
+            "TimeZoneId": "Asia/Dubai",
+            "CurrentUtcOffset": 0
+        },
+        "ListingNumber": 21,
+        "OrderingUrl": null,
+        "CateringUrl": null,
+        "ExtendedProperties": null
+    }, {
+        "LocationId": {
+            "StoreNumber": 34535,
+            "SatelliteNumber": 0
+        },
+        "Address": {
+            "Address1": "Alami 1 Building",
+            "Address2": "Ground Floor",
+            "Address3": "King Faisal str next Spinneys",
+            "City": "Sharjah",
+            "StateProvCode": "",
+            "PostalCode": "",
+            "CountryCode": "AE",
+            "CountryCode3": "ARE"
+        },
+        "Geo": {
+            "Latitude": 25.3422,
+            "Longitude": 55.3876,
+            "TimeZoneId": "Asia/Dubai",
+            "CurrentUtcOffset": 0
+        },
+        "ListingNumber": 22,
+        "OrderingUrl": null,
+        "CateringUrl": null,
+        "ExtendedProperties": null
+    }, {
+        "LocationId": {
+            "StoreNumber": 39563,
+            "SatelliteNumber": 0
+        },
+        "Address": {
+            "Address1": "Corniche Al Bouhaira",
+            "Address2": "Ground Floor",
+            "Address3": "Hasawi Building, Block A",
+            "City": "Sharjah",
+            "StateProvCode": "",
+            "PostalCode": "421",
+            "CountryCode": "AE",
+            "CountryCode3": "ARE"
+        },
+        "Geo": {
+            "Latitude": 25.3331,
+            "Longitude": 55.3759,
+            "TimeZoneId": "Asia/Dubai",
+            "CurrentUtcOffset": 0
+        },
+        "ListingNumber": 23,
+        "OrderingUrl": null,
+        "CateringUrl": null,
+        "ExtendedProperties": null
+    }, {
+        "LocationId": {
+            "StoreNumber": 45719,
+            "SatelliteNumber": 0
+        },
+        "Address": {
+            "Address1": "Al Mina Road",
+            "Address2": "near to Fujairah Beach Hotel",
+            "Address3": "Eppco Site No. 509",
+            "City": "Fujairah",
+            "StateProvCode": "",
+            "PostalCode": "99999",
+            "CountryCode": "AE",
+            "CountryCode3": "ARE"
+        },
+        "Geo": {
+            "Latitude": 25.1619,
+            "Longitude": 56.3516,
+            "TimeZoneId": "Asia/Dubai",
+            "CurrentUtcOffset": 0
+        },
+        "ListingNumber": 24,
+        "OrderingUrl": null,
+        "CateringUrl": null,
+        "ExtendedProperties": null
+    }, {
+        "LocationId": {
+            "StoreNumber": 51644,
+            "SatelliteNumber": 0
+        },
+        "Address": {
+            "Address1": "Al Qasba Area",
+            "Address2": "Shop No. 1, Ground Floor",
+            "Address3": "Al Khan Palace Tower",
+            "City": "Sharjah",
+            "StateProvCode": "",
+            "PostalCode": "6206",
+            "CountryCode": "AE",
+            "CountryCode3": "ARE"
+        },
+        "Geo": {
+            "Latitude": 25.3283,
+            "Longitude": 55.3686,
+            "TimeZoneId": "Asia/Dubai",
+            "CurrentUtcOffset": 0
+        },
+        "ListingNumber": 25,
+        "OrderingUrl": null,
+        "CateringUrl": null,
+        "ExtendedProperties": null
+    }, {
+        "LocationId": {
+            "StoreNumber": 49090,
+            "SatelliteNumber": 0
+        },
+        "Address": {
+            "Address1": "Tunis Road",
+            "Address2": "Enoc No. 1014",
+            "Address3": "Al Mizher First",
+            "City": "Dubai",
+            "StateProvCode": "",
+            "PostalCode": "6442",
+            "CountryCode": "AE",
+            "CountryCode3": "ARE"
+        },
+        "Geo": {
+            "Latitude": 25.2577,
+            "Longitude": 55.4411,
+            "TimeZoneId": "Asia/Dubai",
+            "CurrentUtcOffset": 0
+        },
+        "ListingNumber": 26,
+        "OrderingUrl": null,
+        "CateringUrl": null,
+        "ExtendedProperties": null
+    }, {
+        "LocationId": {
+            "StoreNumber": 46220,
+            "SatelliteNumber": 0
+        },
+        "Address": {
+            "Address1": "Shop No. 4, Eppco Site No. 98",
+            "Address2": "right beside Madina Mall",
+            "Address3": "Al Qusais Industrial Area",
+            "City": "Dubai",
+            "StateProvCode": "",
+            "PostalCode": "5589",
+            "CountryCode": "AE",
+            "CountryCode3": "ARE"
+        },
+        "Geo": {
+            "Latitude": 25.2843,
+            "Longitude": 55.3988,
+            "TimeZoneId": "Asia/Dubai",
+            "CurrentUtcOffset": 0
+        },
+        "ListingNumber": 27,
+        "OrderingUrl": null,
+        "CateringUrl": null,
+        "ExtendedProperties": null
+    }, {
+        "LocationId": {
+            "StoreNumber": 27313,
+            "SatelliteNumber": 0
+        },
+        "Address": {
+            "Address1": "Al Taawun str, Ground floor",
+            "Address2": "PO Box 38540 Al Shaqaeq Bldg",
+            "Address3": "Al Shaqaaq Building, Shop.No.2",
+            "City": "Sharjah",
+            "StateProvCode": "",
+            "PostalCode": "38540",
+            "CountryCode": "AE",
+            "CountryCode3": "ARE"
+        },
+        "Geo": {
+            "Latitude": 25.3073,
+            "Longitude": 55.3673,
+            "TimeZoneId": "Asia/Dubai",
+            "CurrentUtcOffset": 0
+        },
+        "ListingNumber": 28,
+        "OrderingUrl": null,
+        "CateringUrl": null,
+        "ExtendedProperties": null
+    }, {
+        "LocationId": {
+            "StoreNumber": 31754,
+            "SatelliteNumber": 0
+        },
+        "Address": {
+            "Address1": "Plot #251-2983 at Before",
+            "Address2": "Mushrif Park, EPPCO Site 89",
+            "Address3": "Eppco Station , Al Khawaneej",
+            "City": "Dubai",
+            "StateProvCode": "",
+            "PostalCode": "5589",
+            "CountryCode": "AE",
+            "CountryCode3": "ARE"
+        },
+        "Geo": {
+            "Latitude": 25.2327,
+            "Longitude": 55.4354,
+            "TimeZoneId": "Asia/Dubai",
+            "CurrentUtcOffset": 0
+        },
+        "ListingNumber": 29,
+        "OrderingUrl": null,
+        "CateringUrl": null,
+        "ExtendedProperties": null
+    }, {
+        "LocationId": {
+            "StoreNumber": 50060,
+            "SatelliteNumber": 0
+        },
+        "Address": {
+            "Address1": "Al Mamzar Dubai",
+            "Address2": "G 36",
+            "Address3": "The Square(The Building)",
+            "City": "Dubai",
+            "StateProvCode": "",
+            "PostalCode": "26498",
+            "CountryCode": "AE",
+            "CountryCode3": "ARE"
+        },
+        "Geo": {
+            "Latitude": 25.2898,
+            "Longitude": 55.3543,
+            "TimeZoneId": "Asia/Dubai",
+            "CurrentUtcOffset": 0
+        },
+        "ListingNumber": 30,
+        "OrderingUrl": null,
+        "CateringUrl": null,
+        "ExtendedProperties": null
+    }, {
+        "LocationId": {
+            "StoreNumber": 20354,
+            "SatelliteNumber": 0
+        },
+        "Address": {
+            "Address1": "Departure Terminal 2 Airport",
+            "Address2": "Tb2 f04",
+            "Address3": "Dubai Airport, Duty Free",
+            "City": "Dubai",
+            "StateProvCode": "",
+            "PostalCode": "27888",
+            "CountryCode": "AE",
+            "CountryCode3": "ARE"
+        },
+        "Geo": {
+            "Latitude": 25.2656,
+            "Longitude": 55.3576,
+            "TimeZoneId": "Asia/Dubai",
+            "CurrentUtcOffset": 0
+        },
+        "ListingNumber": 31,
+        "OrderingUrl": null,
+        "CateringUrl": null,
+        "ExtendedProperties": null
+    }, {
+        "LocationId": {
+            "StoreNumber": 36712,
+            "SatelliteNumber": 0
+        },
+        "Address": {
+            "Address1": "Tripoli St.",
+            "Address2": "Shop No.5, Enoc Site 1081",
+            "Address3": "Al Warqa",
+            "City": "Dubai",
+            "StateProvCode": "",
+            "PostalCode": "6442",
+            "CountryCode": "AE",
+            "CountryCode3": "ARE"
+        },
+        "Geo": {
+            "Latitude": 25.209,
+            "Longitude": 55.4172,
+            "TimeZoneId": "Asia/Dubai",
+            "CurrentUtcOffset": 0
+        },
+        "ListingNumber": 32,
+        "OrderingUrl": null,
+        "CateringUrl": null,
+        "ExtendedProperties": null
+    }, {
+        "LocationId": {
+            "StoreNumber": 49558,
+            "SatelliteNumber": 0
+        },
+        "Address": {
+            "Address1": "Food Court, Departure Area",
+            "Address2": "",
+            "Address3": "Terminal 3 Airport",
+            "City": "Dubai",
+            "StateProvCode": "",
+            "PostalCode": "27888",
+            "CountryCode": "AE",
+            "CountryCode3": "ARE"
+        },
+        "Geo": {
+            "Latitude": 25.2442,
+            "Longitude": 55.361,
+            "TimeZoneId": "Asia/Dubai",
+            "CurrentUtcOffset": 0
+        },
+        "ListingNumber": 33,
+        "OrderingUrl": null,
+        "CateringUrl": null,
+        "ExtendedProperties": null
+    }, {
+        "LocationId": {
+            "StoreNumber": 45632,
+            "SatelliteNumber": 0
+        },
+        "Address": {
+            "Address1": "right beside RTA Building",
+            "Address2": "Enoc Site# 1005",
+            "Address3": "Umm Al Ramool",
+            "City": "Dubai",
+            "StateProvCode": "",
+            "PostalCode": "5589",
+            "CountryCode": "AE",
+            "CountryCode3": "ARE"
+        },
+        "Geo": {
+            "Latitude": 25.2339,
+            "Longitude": 55.3569,
+            "TimeZoneId": "Asia/Dubai",
+            "CurrentUtcOffset": 0
+        },
+        "ListingNumber": 34,
+        "OrderingUrl": null,
+        "CateringUrl": null,
+        "ExtendedProperties": null
+    }, {
+        "LocationId": {
+            "StoreNumber": 20972,
+            "SatelliteNumber": 0
+        },
+        "Address": {
+            "Address1": "Al Rigga Building",
+            "Address2": "Rigga Road, Deira",
+            "Address3": "Showroom 6+7",
+            "City": "Dubai",
+            "StateProvCode": "",
+            "PostalCode": "",
+            "CountryCode": "AE",
+            "CountryCode3": "ARE"
+        },
+        "Geo": {
+            "Latitude": 25.2642,
+            "Longitude": 55.3227,
+            "TimeZoneId": "Asia/Dubai",
+            "CurrentUtcOffset": 0
+        },
+        "ListingNumber": 35,
+        "OrderingUrl": null,
+        "CateringUrl": null,
+        "ExtendedProperties": null
+    }, {
+        "LocationId": {
+            "StoreNumber": 45633,
+            "SatelliteNumber": 0
+        },
+        "Address": {
+            "Address1": "near to Festival City",
+            "Address2": "Enoc Site No.1007",
+            "Address3": "Rashidiya",
+            "City": "Dubai",
+            "StateProvCode": "",
+            "PostalCode": "5589",
+            "CountryCode": "AE",
+            "CountryCode3": "ARE"
+        },
+        "Geo": {
+            "Latitude": 25.2194,
+            "Longitude": 55.3707,
+            "TimeZoneId": "Asia/Dubai",
+            "CurrentUtcOffset": 0
+        },
+        "ListingNumber": 36,
+        "OrderingUrl": null,
+        "CateringUrl": null,
+        "ExtendedProperties": null
+    }, {
+        "LocationId": {
+            "StoreNumber": 18571,
+            "SatelliteNumber": 0
+        },
+        "Address": {
+            "Address1": "First floor of Deira City Cent",
+            "Address2": "Deira",
+            "Address3": "Unit No. FC9, Food Court",
+            "City": "Dubai",
+            "StateProvCode": "",
+            "PostalCode": "",
+            "CountryCode": "AE",
+            "CountryCode3": "ARE"
+        },
+        "Geo": {
+            "Latitude": 25.2512,
+            "Longitude": 55.3338,
+            "TimeZoneId": "Asia/Dubai",
+            "CurrentUtcOffset": 0
+        },
+        "ListingNumber": 37,
+        "OrderingUrl": null,
+        "CateringUrl": null,
+        "ExtendedProperties": null
+    }, {
+        "LocationId": {
+            "StoreNumber": 71670,
+            "SatelliteNumber": 0
+        },
+        "Address": {
+            "Address1": "Located in FC008",
+            "Address2": "Second Floor",
+            "Address3": "Dubai Festival City Mall",
+            "City": "Dubai",
+            "StateProvCode": "",
+            "PostalCode": "49776",
+            "CountryCode": "AE",
+            "CountryCode3": "ARE"
+        },
+        "Geo": {
+            "Latitude": 25.2225,
+            "Longitude": 55.3537,
+            "TimeZoneId": "Asia/Dubai",
+            "CurrentUtcOffset": 0
+        },
+        "ListingNumber": 38,
+        "OrderingUrl": null,
+        "CateringUrl": null,
+        "ExtendedProperties": null
+    }, {
+        "LocationId": {
+            "StoreNumber": 38132,
+            "SatelliteNumber": 0
+        },
+        "Address": {
+            "Address1": "Nad Al Hamar Road",
+            "Address2": "Shop No 2",
+            "Address3": "Yellow Hurt Centre",
+            "City": "Dubai",
+            "StateProvCode": "",
+            "PostalCode": "11601",
+            "CountryCode": "AE",
+            "CountryCode3": "ARE"
+        },
+        "Geo": {
+            "Latitude": 25.2016,
+            "Longitude": 55.3772,
+            "TimeZoneId": "Asia/Dubai",
+            "CurrentUtcOffset": 0
+        },
+        "ListingNumber": 39,
+        "OrderingUrl": null,
+        "CateringUrl": null,
+        "ExtendedProperties": null
+    }, {
+        "LocationId": {
+            "StoreNumber": 43963,
+            "SatelliteNumber": 0
+        },
+        "Address": {
+            "Address1": "AP 25 in Phase 1 of DHCC",
+            "Address2": "Shop 1",
+            "Address3": "Ground Floor",
+            "City": "Dubai",
+            "StateProvCode": "",
+            "PostalCode": "506578",
+            "CountryCode": "AE",
+            "CountryCode3": "ARE"
+        },
+        "Geo": {
+            "Latitude": 25.2324,
+            "Longitude": 55.3262,
+            "TimeZoneId": "Asia/Dubai",
+            "CurrentUtcOffset": 0
+        },
+        "ListingNumber": 40,
+        "OrderingUrl": null,
+        "CateringUrl": null,
+        "ExtendedProperties": null
+    }, {
+        "LocationId": {
+            "StoreNumber": 20837,
+            "SatelliteNumber": 0
+        },
+        "Address": {
+            "Address1": "Ramada R/A",
+            "Address2": "Food Court, Shop S22GF",
+            "Address3": "",
+            "City": "Dubai",
+            "StateProvCode": "",
+            "PostalCode": "",
+            "CountryCode": "AE",
+            "CountryCode3": "ARE"
+        },
+        "Geo": {
+            "Latitude": 25.2564,
+            "Longitude": 55.2966,
+            "TimeZoneId": "Asia/Dubai",
+            "CurrentUtcOffset": 0
+        },
+        "ListingNumber": 41,
+        "OrderingUrl": null,
+        "CateringUrl": null,
+        "ExtendedProperties": null
+    }, {
+        "LocationId": {
+            "StoreNumber": 66312,
+            "SatelliteNumber": 0
+        },
+        "Address": {
+            "Address1": "Unit 59B",
+            "Address2": "",
+            "Address3": "Shindagha Mall",
+            "City": "Dubai",
+            "StateProvCode": "",
+            "PostalCode": "22619",
+            "CountryCode": "AE",
+            "CountryCode3": "ARE"
+        },
+        "Geo": {
+            "Latitude": 25.2651,
+            "Longitude": 55.2873,
+            "TimeZoneId": "Asia/Dubai",
+            "CurrentUtcOffset": 0
+        },
+        "ListingNumber": 42,
+        "OrderingUrl": null,
+        "CateringUrl": null,
+        "ExtendedProperties": null
+    }, {
+        "LocationId": {
+            "StoreNumber": 23129,
+            "SatelliteNumber": 0
+        },
+        "Address": {
+            "Address1": "opposite of Wafi Mall",
+            "Address2": "near to Garhoud Bridge",
+            "Address3": "Zabiel 1, Al Garhoud",
+            "City": "Dubai",
+            "StateProvCode": "",
+            "PostalCode": "",
+            "CountryCode": "AE",
+            "CountryCode3": "ARE"
+        },
+        "Geo": {
+            "Latitude": 25.2251,
+            "Longitude": 55.3234,
+            "TimeZoneId": "Asia/Dubai",
+            "CurrentUtcOffset": 0
+        },
+        "ListingNumber": 43,
+        "OrderingUrl": null,
+        "CateringUrl": null,
+        "ExtendedProperties": null
+    }, {
+        "LocationId": {
+            "StoreNumber": 36854,
+            "SatelliteNumber": 0
+        },
+        "Address": {
+            "Address1": "Wasi Club Oud Metha",
+            "Address2": "ENOC Site 1088",
+            "Address3": "Plot No 325-618 at opposite",
+            "City": "Dubai",
+            "StateProvCode": "",
+            "PostalCode": "6442",
+            "CountryCode": "AE",
+            "CountryCode3": "ARE"
+        },
+        "Geo": {
+            "Latitude": 25.2196,
+            "Longitude": 55.3139,
+            "TimeZoneId": "Asia/Dubai",
+            "CurrentUtcOffset": 0
+        },
+        "ListingNumber": 44,
+        "OrderingUrl": null,
+        "CateringUrl": null,
+        "ExtendedProperties": null
+    }, {
+        "LocationId": {
+            "StoreNumber": 58769,
+            "SatelliteNumber": 0
+        },
+        "Address": {
+            "Address1": "Service Station 784, Sharjah",
+            "Address2": "Near Sharjah University",
+            "Address3": "ADNOC Gas Station/C-Store",
+            "City": "Kalba",
+            "StateProvCode": "",
+            "PostalCode": "27888",
+            "CountryCode": "AE",
+            "CountryCode3": "ARE"
+        },
+        "Geo": {
+            "Latitude": 25.0281,
+            "Longitude": 56.3495,
+            "TimeZoneId": "Asia/Dubai",
+            "CurrentUtcOffset": 0
+        },
+        "ListingNumber": 45,
+        "OrderingUrl": null,
+        "CateringUrl": null,
+        "ExtendedProperties": null
+    }, {
+        "LocationId": {
+            "StoreNumber": 48972,
+            "SatelliteNumber": 0
+        },
+        "Address": {
+            "Address1": "Jumeirah",
+            "Address2": "Al Hudaiba Awards Building",
+            "Address3": "Sheikh Hamdan Complex",
+            "City": "Dubai",
+            "StateProvCode": "",
+            "PostalCode": "29000",
+            "CountryCode": "AE",
+            "CountryCode3": "ARE"
+        },
+        "Geo": {
+            "Latitude": 25.2416,
+            "Longitude": 55.272,
+            "TimeZoneId": "Asia/Dubai",
+            "CurrentUtcOffset": 0
+        },
+        "ListingNumber": 46,
+        "OrderingUrl": null,
+        "CateringUrl": null,
+        "ExtendedProperties": null
+    }, {
+        "LocationId": {
+            "StoreNumber": 20530,
+            "SatelliteNumber": 0
+        },
+        "Address": {
+            "Address1": "Unit G022, Ground Floor",
+            "Address2": "Sheik Zayed",
+            "Address3": "Al Durrah Tower",
+            "City": "Dubai",
+            "StateProvCode": "",
+            "PostalCode": "",
+            "CountryCode": "AE",
+            "CountryCode3": "ARE"
+        },
+        "Geo": {
+            "Latitude": 25.2197,
+            "Longitude": 55.2801,
+            "TimeZoneId": "Asia/Dubai",
+            "CurrentUtcOffset": 0
+        },
+        "ListingNumber": 47,
+        "OrderingUrl": null,
+        "CateringUrl": null,
+        "ExtendedProperties": null
+    }, {
+        "LocationId": {
+            "StoreNumber": 36669,
+            "SatelliteNumber": 0
+        },
+        "Address": {
+            "Address1": "Along Emirates Road",
+            "Address2": "",
+            "Address3": "SIlicon Oasis, ENOC Site 1022",
+            "City": "Dubai",
+            "StateProvCode": "",
+            "PostalCode": "6442",
+            "CountryCode": "AE",
+            "CountryCode3": "ARE"
+        },
+        "Geo": {
+            "Latitude": 25.1331,
+            "Longitude": 55.3803,
+            "TimeZoneId": "Asia/Dubai",
+            "CurrentUtcOffset": 0
+        },
+        "ListingNumber": 48,
+        "OrderingUrl": null,
+        "CateringUrl": null,
+        "ExtendedProperties": null
+    }, {
+        "LocationId": {
+            "StoreNumber": 67314,
+            "SatelliteNumber": 0
+        },
+        "Address": {
+            "Address1": "012-034 Shop #12 Ground Floor",
+            "Address2": "",
+            "Address3": "Souq Extra Silicon Oasis FZCO",
+            "City": "Dubai",
+            "StateProvCode": "",
+            "PostalCode": "6487",
+            "CountryCode": "AE",
+            "CountryCode3": "ARE"
+        },
+        "Geo": {
+            "Latitude": 25.1193,
+            "Longitude": 55.3953,
+            "TimeZoneId": "Asia/Dubai",
+            "CurrentUtcOffset": 0
+        },
+        "ListingNumber": 49,
+        "OrderingUrl": null,
+        "CateringUrl": null,
+        "ExtendedProperties": null
+    }, {
+        "LocationId": {
+            "StoreNumber": 46986,
+            "SatelliteNumber": 0
+        },
+        "Address": {
+            "Address1": "Silicon Oasis,along Emirates R",
+            "Address2": "Ground Floor",
+            "Address3": "Pineapple Headquarters Bldg",
+            "City": "Dubai",
+            "StateProvCode": "",
+            "PostalCode": "6009",
+            "CountryCode": "AE",
+            "CountryCode3": "ARE"
+        },
+        "Geo": {
+            "Latitude": 25.1253,
+            "Longitude": 55.3814,
+            "TimeZoneId": "Asia/Dubai",
+            "CurrentUtcOffset": 0
+        },
+        "ListingNumber": 50,
+        "OrderingUrl": null,
+        "CateringUrl": null,
+        "ExtendedProperties": null
+    }],
+    "AdditionalData": [{
+        "Name": "favorites",
+        "Items": []
+    }]
+}
